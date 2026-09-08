@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 8 sept - thuis aan de slag
+
+Vandaag was ik bezig geweest met de presentatie voor woensdag maken met remark.
+Ik wou zo veel mogelijk de markdown gebruiken en zo min mogelijk HTML, maar dat bleek onmogelijk aangezien de markdown niet werkte hoe het hoorde.
+Ik heb de hele wiki doorgelezen en ben forums afgegaan om te kijken waarom niets mij lukte. Helaas kwam hier niets uit want ik had alles correct gedaan.
+
+ik heb hierdoor mijn presentatie hel minimalistisch genhouden en helaas niet kunnen doen hoe ik wil T^T
+
+Ik heb de deep dive voor light & dark mode doorgenomen
+notities van de deep dive:
+
 ### 7 sept - Checkout
 
 VRAAG: Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
