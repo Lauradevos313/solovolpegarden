@@ -17,6 +17,8 @@ sites die mij inspireren zijn bijvoorbeeld: tumblr.com, academiaaesthetics.com e
 VRAAG: Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
 ANTWOORD: ik zit op dit moment nog te twijfelen tussen iets 'mystics' (denk tarot etc), iets weirdcore/silly, of iets game-y. Beide topics interesseren mij heel erg, maar ik zou nu nog niet weten hoe ik er mee verder ga. Dinsdag ga ik research doen en dan ook een besluit maken met waar ik mee aan de slag wil gaan.
 
+Er werdt vertelt dat wij met een projectboard kunnen werken op github, ik ben dit gewend om te doen op trello. Op github laadde de projectboard niet dus ben ik begonnen met mijn projectboard op trello in te vullen.
+
 ### 4 sept - [Workshop]
 
 notities van de deep dives waar ik aanwezig bij was:
