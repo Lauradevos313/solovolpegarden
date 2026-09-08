@@ -4,7 +4,22 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 sept - Checkout
+
+VRAAG: Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+ANTWOORD: Een digital garden is een soort 'speeltuin' site, waar je je gedachtes en ideeen kan posten en constant kan blijven aanvullen of aanpassen. Je kan het vormgeven hoe je het wilt en plaatsen wat je maar wilt. Dit is anders dan een reguliere website want het hoeft niet te voldoen aan de 'normen' van reguliere sites. ook de opmaak en opbouw van een digital garden verschilt heel erg van een reguliere website.
+
+VRAAG: Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+ANTWOORD: een website is 'webby' wanneer het voldoet aan de volgende punten:
+fluide/adaptief, interactief/dynamisch, toegankelijk, volwassen, expressief, leuk/verrassend.
+sites die mij inspireren zijn bijvoorbeeld: tumblr.com, academiaaesthetics.com en na de les van vandaag ook melonland.net
+
+VRAAG: Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
+ANTWOORD: ik zit op dit moment nog te twijfelen tussen iets 'mystics' (denk tarot etc), iets weirdcore/silly, of iets game-y. Beide topics interesseren mij heel erg, maar ik zou nu nog niet weten hoe ik er mee verder ga. Dinsdag ga ik research doen en dan ook een besluit maken met waar ik mee aan de slag wil gaan.
+
 ### 4 sept - [Workshop]
+
+notities van de deep dives waar ik aanwezig bij was:
 
 DEEP DIVE 1 - TYPOGRAFIE
 
@@ -97,6 +112,8 @@ slechte schets:
 -> formaat wisselt door heel schets heen.
 
 ### 2 sept - [Workshop]
+
+notities van de deep dives waar ik aanwezig bij was:
 
 DEEP DIVE 1 - HTML & CSS BASICS
 
