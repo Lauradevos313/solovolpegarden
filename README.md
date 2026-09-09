@@ -4,6 +4,31 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 sept - online les (OV staking)
+
+ik heb de presentatie gedaan met Katey Brinckman
+
+vragenlijst van DLO:
+wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content.
+-de essentie van mijn presentatie was het nostalgische gevoel van retro games
+
+welke woorden uit de kwaliteitenlijt kunnen passen bij je onderwerp?
+-wij hebben geen kwaliteitenlijst behandeld in de les...
+
+heeft 'de ander' een aanvulling op je onderwerp?
+-je zou ergens een animatie kunnen maken dat het lijkt dat je in een game zit (bijv. flappy bird die door de pipes gaat of mario die rent.)
+
+Wat is het karakter/de uitstraling/het gevoel dat bij het onderwerp past?
+-retro,nostalgie,game-y,nerdy.
+
+-welke inspiratie kun je uit je 25 (??? het moesten er toch 50 zijn????) afbeeldingen halen. stijl, een gevoel, vorm, enz.
+-Retro game stijl, nostalgisch gevoel.
+
+extra vragen van Katey:
+
+Ga je echt de games op de sites zetten of alleen de vibes nabootsen?
+-mijn plan is om de vibes na te bootsen maar op sommige plekken ook kleine elementen van de games te gebruiken, waardoor dit echt een interactieve ervaring wordt.
+
 ### 8 sept - thuis aan de slag
 
 Vandaag was ik bezig geweest met de presentatie voor woensdag maken met remark.
