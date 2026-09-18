@@ -41,6 +41,7 @@ main {
 section a {
   position: relative;
   display: block;
+  width: auto;
   overflow: hidden;
   color: white;
   background: #171127;
