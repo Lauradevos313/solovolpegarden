@@ -94,13 +94,10 @@ section a::after {
   font-size: 1rem;
 }
 
-img {
-  max-width: 100px;
-  height: auto;
-}
 section a img {
   display: block;
-  width: auto;
+  max-width: 100px;
+  height: auto;
   object-fit: cover;
   image-rendering: pixelated;
 }
