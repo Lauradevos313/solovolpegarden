@@ -38,6 +38,15 @@ main {
   margin: auto;
 }
 
+section {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
 section a {
   position: relative;
   display: block;
