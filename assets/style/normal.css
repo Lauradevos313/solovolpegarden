@@ -17,6 +17,9 @@ body {
 }
 
 body {
+  min-width: 50px;
+  max-height: fit-content;
+
   background: radial-gradient(
     circle at 50% 45%,
     #43276b 0%,
