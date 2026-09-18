@@ -10,6 +10,8 @@ Ik ben een volledige week echt goed ziek geweest, ik kon niet naar een scherm ki
 Ik ben veels te vroeg opgestaan op de 18e om mijn idee uit te werken in HTML, het is heel bare-bones. maar ik kan hier wel mee verder werken.
 De deep dives en lessen die ik heb gemist ga ik ook zeker nog inhalen, want ik wil zo veel mogelijk uit dit blok halen en een week ziek zijn gaat mij niet tegenhouden!!!
 
+Ik heb van 4:30 tot 6:20 aan mijn code gezeten om iets te kunnen laten zien. (hevige shoutout naar MDN en een van mn online vrienden voor de hulp als ik iets niet begreep.) Ik ben er nog niet tevreden mee, maar heb nog niet de energie om in-depth te werken.
+
 ### 9 sept - online les (OV staking)
 
 ik heb de presentatie gedaan met Katey Brinckman
