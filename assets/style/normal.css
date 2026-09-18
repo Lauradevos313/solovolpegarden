@@ -81,3 +81,15 @@ section a::after {
 
   font-size: 1rem;
 }
+
+section a img {
+  display: block;
+  width: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  image-rendering: pixelated;
+}
+
+section a:hover img {
+  transform: scale(1.05);
+}
