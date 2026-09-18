@@ -34,14 +34,14 @@ body {
 main {
   display: flex;
   flex-direction: column;
-  width: auto;
+  width: 100%;
   margin: auto;
 }
 
 section a {
   position: relative;
   display: block;
-  width: auto;
+  width: 100%;
   overflow: hidden;
   color: white;
   background: #171127;
