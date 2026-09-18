@@ -17,7 +17,7 @@ body {
 }
 
 body {
-  min-width: 50px;
+  min-width: 100px;
   max-height: fit-content;
 
   background: radial-gradient(
@@ -94,6 +94,10 @@ section a::after {
   font-size: 1rem;
 }
 
+img {
+  max-width: 100px;
+  height: auto;
+}
 section a img {
   display: block;
   width: auto;
