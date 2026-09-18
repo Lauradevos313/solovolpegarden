@@ -24,4 +24,9 @@ body {
     #17102d 45%,
     #05030c 100%
   );
+  color: white;
+
+  font-family: "Press Start 2P", system-ui;
+
+  overflow-x: hidden;
 }
