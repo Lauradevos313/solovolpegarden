@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 sept - weer aan de slag na goed ziek zijn.
+
+Ik ben een volledige week echt goed ziek geweest, ik kon niet naar een scherm kijken. Dus heb een week niet aan school kunnen zitten helaas. Hier baal ik echt heel erg van want ik had zo veel willen doen wat gewoon niet lukte.
+Ik ben veels te vroeg opgestaan op de 18e om mijn idee uit te werken in HTML, het is heel bare-bones. maar ik kan hier wel mee verder werken.
+De deep dives en lessen die ik heb gemist ga ik ook zeker nog inhalen, want ik wil zo veel mogelijk uit dit blok halen en een week ziek zijn gaat mij niet tegenhouden!!!
+
 ### 9 sept - online les (OV staking)
 
 ik heb de presentatie gedaan met Katey Brinckman
