@@ -1,4 +1,6 @@
-/* HIER KOMT JOUW CSS */
+/**************************
+* MARK: Fonts
+**************************/
 @font-face {
   font-family: "Press Start 2P";
   src: url(../type/PressStart2P-Regular.ttf);
@@ -6,6 +8,27 @@
   font-style: normal;
 }
 
+/**************************
+* MARK: Custom properties
+**************************/
+html {
+  color-scheme: light dark;
+
+  --color-magenta: light-dark(#fff, #a20e96);
+  --color-yellow: light-dark(#000, #ffe600);
+  --color-red: light-dark(#000, #e51b23);
+  --color-dark: #333;
+  --color-light: #fefefe;
+
+  --gradient-position: 50% 45%;
+  --gradient-color-1: #43276b;
+  --gradient-color-2: #17102d;
+  --gradient-color-3: #05030c;
+}
+
+/**************************
+* MARK: Algemene Styling
+**************************/
 * {
   box-sizing: border-box;
 }
@@ -21,17 +44,27 @@ body {
   max-height: fit-content;
 
   background: radial-gradient(
-    circle at 50% 45%,
-    #43276b 0%,
-    #17102d 45%,
-    #05030c 100%
+    circle at var(--gradient-position),
+    var(--gradient-color-1) 0%,
+    var(--gradient-color-2) 45%,
+    var(--gradient-color-3) 100%
   );
-  color: white;
+ 
 
   font-family: "Press Start 2P", system-ui;
 
   overflow-x: hidden;
 }
+
+/**************************
+* MARK: Header
+**************************/
+/**************************
+* MARK: Footer
+**************************/
+/**************************
+* MARK: Main
+**************************/
 
 main {
   display: flex;
@@ -40,7 +73,7 @@ main {
   margin: auto;
 }
 
-section {
+/* nav {
   width: 100%;
   max-width: 800px;
   margin: auto;
@@ -49,7 +82,7 @@ section {
   gap: 15px;
 }
 
-section a {
+nav a {
   position: relative;
   display: block;
   width: 100%;
@@ -65,7 +98,7 @@ section a {
     box-shadow 0.1s ease;
 }
 
-section a:hover {
+nav a:hover {
   transform: translateY(-8px) scale(1.05);
   border-color: #ffe600;
   box-shadow:
@@ -74,7 +107,7 @@ section a:hover {
     6px 6px 0 black;
 }
 
-section a::after {
+nav a::after {
   content: "SELECT";
   font-family: "Press Start 2P", system-ui;
 
@@ -94,14 +127,14 @@ section a::after {
   font-size: 1rem;
 }
 
-section a img {
+nav a img {
   display: block;
-  max-width: 100px;
+  max-width: 50px;
   height: auto;
   object-fit: cover;
   image-rendering: pixelated;
 }
 
-section a:hover img {
+nav a:hover img {
   transform: scale(1.05);
 }

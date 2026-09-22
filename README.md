@@ -4,6 +4,28 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 sept - start sprint 2
+
+COOKIE OPDRACHT:
+Weet jij waarmee je precies akkoord gaat als je op “accepteren” klikt?
+
+![cookie_opdracht](assets/images/readmeimg/cookieopdracht.jpeg)
+
+CHECKOUT
+Wat zijn HTML landmark role elements?
+
+Dat zijn onderdelen van een webpagina/code die aangeven waar belangrijke secties zich bevinden, zodat mensen met schermlezers en toetsenbordgebruikers zich makkelijk over de pagina kunnen navigeren.
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Heading elementen zijn tags die gebruikt worden om structuur en hierarchie te bepalen in een HTML bestand.
+Ze horen op volgorde van 1 naar 6 genest te worden, dus zonder niveaus over te slaan.
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+Ikzelf lees altijd snel de cookie popup door om te kijken hoe vaag het geschreven is (en ook omdat ik best nieuwsgierig ben haha), ik wijs ze eigenlijk altijd af, tenzij het niet mogelijk is omdat je "neccessary" cookies moet accepteren. Mijn beweegredenen zijn vooral het feit dat ik niet graag getracked wordt en het mij ook niet echt boeit of ik 'persoonlijke' advertenties te zien krijg.
+Voor mij zijn hoe ik met cookies om ga en mijn beweegredenen niet veranderd na het volgen van dit college.
+
 ### 18 sept - weer aan de slag na goed ziek zijn.
 
 Ik ben een volledige week echt goed ziek geweest, ik kon niet naar een scherm kijken. Dus heb een week niet aan school kunnen zitten helaas. Hier baal ik echt heel erg van want ik had zo veel willen doen wat gewoon niet lukte.
