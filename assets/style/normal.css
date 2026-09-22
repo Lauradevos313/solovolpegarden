@@ -91,10 +91,12 @@ main {
   display: grid;
   grid-area: main;
   padding: var(--whitespace);
+  gap: var(--whitespace);
 }
 
 nav a {
-  display: grid;
+  position: relative;
+  display: block;
   max-height: fit-content;
   width: 30vw;
   overflow: hidden;
