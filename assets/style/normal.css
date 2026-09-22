@@ -17,6 +17,7 @@ html {
   --color-magenta: light-dark(#fff, #a20e96);
   --color-yellow: light-dark(#000, #ffe600);
   --color-red: light-dark(#000, #e51b23);
+  --color-blue: light-dark(#4358cc, #152377);
   --color-dark: #333;
   --color-light: #fefefe;
 
