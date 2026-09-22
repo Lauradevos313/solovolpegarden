@@ -41,6 +41,11 @@ body {
 
 body {
   display: grid;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+
   min-width: 80vw;
   max-height: fit-content;
 
@@ -61,22 +66,22 @@ body {
 **************************/
 header {
   display: grid;
+  grid-area: header;
 }
 /**************************
 * MARK: Footer
 **************************/
 footer {
   display: grid;
+  grid-area: footer;
 }
 /**************************
 * MARK: Main
 **************************/
 
 main {
-  display: flex;
-  flex-direction: column;
-  width: 80vw;
-  margin: auto;
+  display: grid;
+  grid-area: main;
 }
 
 nav a {
