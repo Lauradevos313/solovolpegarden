@@ -40,7 +40,7 @@ body {
 }
 
 body {
-  min-width: 100px;
+  min-width: 80vw;
   max-height: fit-content;
 
   background: radial-gradient(
@@ -72,6 +72,16 @@ main {
   width: 100%;
   margin: auto;
 }
+nav a:hover,
+    a:focus-visible
+ {
+  transform: translateY(-8px) scale(1.05);
+  border-color: #ffe600;
+  box-shadow:
+    0 0 0 3px #e51b23,
+    0 0 20px #ffe600,
+    6px 6px 0 black;
+ }
 
 /* nav {
   width: 100%;
@@ -98,7 +108,9 @@ nav a {
     box-shadow 0.1s ease;
 }
 
-nav a:hover {
+nav a:hover,
+    a:focus-visible
+ {
   transform: translateY(-8px) scale(1.05);
   border-color: #ffe600;
   box-shadow:
