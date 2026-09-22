@@ -91,13 +91,12 @@ main {
   display: grid;
   grid-area: main;
   padding: var(--whitespace);
-  gap: var(--whitespace);
-  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
 }
 
 nav a {
-  position: relative;
-  display: block;
+  display: grid;
+  gap: var(--whitespace);
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
   max-height: fit-content;
   width: 30vw;
   overflow: hidden;
