@@ -91,6 +91,8 @@ main {
   display: grid;
   grid-area: main;
   padding: var(--whitespace);
+  gap: var(--whitespace);
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
 }
 
 nav a {
