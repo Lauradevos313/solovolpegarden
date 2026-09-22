@@ -21,9 +21,9 @@ html {
   --color-light: #fefefe;
 
   --gradient-position: 50% 45%;
-  --gradient-color-1: #43276b;
-  --gradient-color-2: #17102d;
-  --gradient-color-3: #05030c;
+  --gradient-color-1: light-dark(#7644bb, #43276b);
+  --gradient-color-2: light-dark(#5f42bd, #17102d);
+  --gradient-color-3: light-dark(#bab4d4, #05030c);
 }
 
 /**************************
@@ -84,7 +84,7 @@ a:focus-visible nav {
 nav a {
   position: relative;
   display: block;
-  width: 100%;
+  width: 80vw;
   overflow: hidden;
   color: white;
   background: #171127;
