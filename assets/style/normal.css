@@ -78,14 +78,6 @@ main {
   width: 80vw;
   margin: auto;
 }
-nav a:hover,
-a:focus-visible nav {
-  width: 80vw;
-  margin: auto;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 15px;
-}
 
 nav a {
   position: relative;
