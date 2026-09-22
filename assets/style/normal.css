@@ -68,13 +68,12 @@ body {
 main {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 80vw;
   margin: auto;
 }
 nav a:hover,
 a:focus-visible nav {
-  width: 100%;
-  max-width: 800px;
+  width: 80vw;
   margin: auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -117,7 +116,7 @@ nav a::after {
   right: 0;
   bottom: 0;
 
-  padding: 8px;
+  padding: 0.8vw;
 
   text-align: center;
 
@@ -129,7 +128,7 @@ nav a::after {
 
 nav a img {
   display: block;
-  max-width: 50px;
+  max-width: 5vw;
   height: auto;
   object-fit: cover;
   image-rendering: pixelated;
