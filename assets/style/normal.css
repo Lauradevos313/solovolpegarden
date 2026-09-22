@@ -49,7 +49,6 @@ body {
     var(--gradient-color-2) 45%,
     var(--gradient-color-3) 100%
   );
- 
 
   font-family: "Press Start 2P", system-ui;
 
@@ -73,17 +72,7 @@ main {
   margin: auto;
 }
 nav a:hover,
-    a:focus-visible
- {
-  transform: translateY(-8px) scale(1.05);
-  border-color: #ffe600;
-  box-shadow:
-    0 0 0 3px #e51b23,
-    0 0 20px #ffe600,
-    6px 6px 0 black;
- }
-
-/* nav {
+a:focus-visible nav {
   width: 100%;
   max-width: 800px;
   margin: auto;
@@ -109,8 +98,7 @@ nav a {
 }
 
 nav a:hover,
-    a:focus-visible
- {
+a:focus-visible {
   transform: translateY(-8px) scale(1.05);
   border-color: #ffe600;
   box-shadow:
