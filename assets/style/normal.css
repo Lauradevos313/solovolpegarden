@@ -98,7 +98,7 @@ nav a {
   display: block;
   max-height: fit-content;
   width: 30vw;
-  padding: var(--whitespace);
+  margin: var(--whitespace);
   overflow: hidden;
   color: white;
   background: #171127;
