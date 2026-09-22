@@ -95,8 +95,6 @@ main {
 
 nav a {
   display: grid;
-  gap: var(--whitespace);
-  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
   max-height: fit-content;
   width: 30vw;
   overflow: hidden;
