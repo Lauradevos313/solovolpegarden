@@ -98,6 +98,7 @@ nav a {
   display: block;
   max-height: fit-content;
   width: 30vw;
+  margin: 5vh;
   overflow: hidden;
   color: white;
   background: #171127;
