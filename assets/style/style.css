@@ -102,6 +102,7 @@ main {
    ================================================== */
 
 header {
+  padding: 4em;
   grid-area: header;
   text-align: center;
 }
