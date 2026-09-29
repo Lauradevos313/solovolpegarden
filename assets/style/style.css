@@ -237,7 +237,7 @@ article p {
   line-height: 1.7;
 }
 
-section > button {
+button {
   width: fit-content;
 
   margin-block-end: 2rem;
@@ -247,19 +247,19 @@ section > button {
   font-size: 0.6rem;
 }
 
-section > button:hover,
-section > button:focus-visible {
+button:hover,
+button:focus-visible {
   color: var(--color-hover);
 }
 
-section > ul {
+ul {
   margin: 0;
   padding: 0;
 
   list-style: none;
 }
 
-section > ul li {
+ul li {
   padding-block: 1rem;
 
   /*  border-block-end: 1px solid var(--color-border); */
