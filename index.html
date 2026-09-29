@@ -18,36 +18,43 @@
   </head>
   <body>
     <header>
-      <h1>LEVEL SELECT</h1>
-      <p>MAKE A CHOICE</p>
+      <p>MENU SELECT</p>
+      <h1>SOLOVOLPE</h1>
     </header>
-
     <main>
-      <nav>
-        <a href="aboutme.html">
-          <img src="/assets/images/fox.jpg" alt="a fox sitting" />
-        </a>
+      <!--  <figure>
+          <img
+            src="assets/images/ditto.png"
+            alt="Pixel-art portrait of Solo"
+          />
 
-        <a href="games.html">
-          <img src="/assets/images/ezio.jpg" alt="a fox sitting" />
-        </a>
+          <figcaption>SOLO</figcaption>
+        </figure> -->
 
-        <a href="posts.html">
-          <img src="/assets/images/ditto.jpg" alt="a fox sitting" />
-        </a>
+      <nav aria-label="Main navigation">
+        <h2>MENU</h2>
 
-        <a href="links.html">
-          <img src="/assets/images/nijntje.jpg" alt="a fox sitting" />
-        </a>
+        <ul>
+          <li>
+            <a href="about.html" data-screen="profile">PROFILE</a>
+          </li>
+
+          <li>
+            <a href="inventory.html" data-screen="inventory">INVENTORY</a>
+          </li>
+
+          <li>
+            <a href="quests.html" data-screen="quests">QUEST LOG</a>
+          </li>
+
+          <li>
+            <a href="contact.html" data-screen="contact">CONTACT</a>
+          </li>
+        </ul>
       </nav>
     </main>
-
     <footer>
-      <nav name="webring">
-        <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
-        </button>
-      </nav>
+      <p>V2.4 // SYSTEM ONLINE</p>
     </footer>
 
     <dialog id="cookieModal">
@@ -64,6 +71,5 @@
         <button onclick="unsetCookie()">Deny</button>
       </form>
     </dialog>
-    </footer>
   </body>
 </html>

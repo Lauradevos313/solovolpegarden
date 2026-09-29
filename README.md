@@ -4,6 +4,26 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 29 sept - weer aan de slag
+
+excuseer mijn taalgebruik, maar holy fuck wat ben ik blij dat ik beter ben. Na echt goed uit te zieken ben ik vandaag weer aan de slag gegaan.
+Terwijl ik ziek was, heb ik hard nagedacht over wat ik nou echt wou laten zien in mijn garden. Mijn originele idee was leuk maar liet niet echt mijn thema zien, dus heb ik besloten om from scratch te beginnen en ben gaan schetsen.
+
+[NOTE TO SELF: SCHETS FOTOS INVOEGEN!!!!]
+
+Op basis van mijn schetsen ben ik gaan denken hoe ik dit ga vormgeven in code en welke elementen ik ga gebruiken.
+Toen ik langer dan 5 minuten naar een scherm kon kijken, ben ik begonnen met coderen in VSCode zodat ik hier mijn progress niet kwijt zou raken als ik besloot toch terug te gaan naar mijn oude idee.
+Wanneer ik vastliep ben ik naar MDN gegaan om te kijken hoe ik door kon en welke elementen ik kan gebruiken.
+
+Uiteindelijk is mijn idee heel simpel geworden, maar het laat wel duidelijk de vibe zien die ik in gedachten had!!
+Het is zeker nog niet waar ik het wil hebben, maar ik ben al blij met wat er nu staat.
+
+Ik loop nog zeker achter qua huiswerk en de deep dives, maar ik geloof in mijzelf dat ik dit kan bijpakken en dat ik een goede inhaalslag kan maken!!
+
+### 23 sept - toch nog ziek...
+
+na een weekend uit te zieken dacht ik de 21e weer beter te zijn, helaas werd ik toch weer ziek wakker op de 22e :(. Ik heb dus besloten om mijn gezondheid op 1 te zetten en thuis te blijven om echt helemaal uit te zieken. Waar mogelijk (op schermen kijken blijkt best misselijkmakend te zijn op dit moment...) probeer ik bij te blijven met huiswerk/code/opdrachten en houd ik contact met klasgenoten over wat ik mis!
+
 ### 21 sept - start sprint 2
 
 COOKIE OPDRACHT:
@@ -34,6 +54,8 @@ De deep dives en lessen die ik heb gemist ga ik ook zeker nog inhalen, want ik w
 
 Ik heb van 4:30 tot 6:20 aan mijn code gezeten om iets te kunnen laten zien. (hevige shoutout naar MDN en een van mn online vrienden voor de hulp als ik iets niet begreep.) Ik ben er nog niet tevreden mee, maar heb nog niet de energie om in-depth te werken.
 
+[FOTOS RETROSPECTIVE INVOEGEN]
+
 ### 9 sept - online les (OV staking)
 
 ik heb de presentatie gedaan met Katey Brinckman
@@ -59,6 +81,8 @@ extra vragen van Katey:
 Ga je echt de games op de sites zetten of alleen de vibes nabootsen?
 -mijn plan is om de vibes na te bootsen maar op sommige plekken ook kleine elementen van de games te gebruiken, waardoor dit echt een interactieve ervaring wordt.
 
+[NOTE TO SELF: CRAZY 8 EN PRESENTATIE INVOEGEN]
+
 ### 8 sept - thuis aan de slag
 
 Vandaag was ik bezig geweest met de presentatie voor woensdag maken met remark.
@@ -68,7 +92,6 @@ Ik heb de hele wiki doorgelezen en ben forums afgegaan om te kijken waarom niets
 ik heb hierdoor mijn presentatie hel minimalistisch genhouden en helaas niet kunnen doen hoe ik wil T^T
 
 Ik heb de deep dive voor light & dark mode doorgenomen
-notities van de deep dive:
 
 ### 7 sept - Checkout
 
