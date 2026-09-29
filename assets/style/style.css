@@ -136,49 +136,6 @@ header h1 {
 }
 
 /* ==================================================
-   SCHERM
-   ================================================== */
-
-.screen {
-  display: none;
-
-  padding: 1.5rem;
-
-  flex: 1;
-}
-
-/* ==================================================
-    CHARACTER FIGURE
-   ================================================== */
-
-figure {
-  width: min(65vw, 18rem);
-
-  margin: 2rem auto;
-
-  text-align: center;
-}
-
-figure img {
-  display: block;
-
-  width: 100%;
-  height: auto;
-
-  aspect-ratio: 1;
-
-  object-fit: contain;
-
-  image-rendering: pixelated;
-}
-
-figcaption {
-  margin-block-start: 1rem;
-
-  color: var(--color-muted);
-}
-
-/* ==================================================
    NAVIGATIE
    ================================================== */
 
@@ -251,7 +208,7 @@ button {
 
   margin-block-end: 2rem;
 
-  color: var(--color-subtle);
+  color: var(--color-content);
 
   font-size: 0.6rem;
 }
@@ -274,6 +231,11 @@ ul li {
   /*  border-block-end: 1px solid var(--color-border); */
 }
 
+.stats {
+  outline: 0.15rem solid var(--color-focus);
+  outline-offset: 0.3rem;
+}
+
 /* ==================================================
    FOOTER
    ================================================== */
@@ -293,6 +255,96 @@ footer p {
 }
 
 /* ==================================================
+   CHARACTER STATS
+   ================================================== */
+
+main > section {
+  display: grid;
+  grid-template-columns: 8rem 1fr;
+  gap: 1.5rem;
+  align-items: start;
+
+  margin-block: 2rem;
+}
+
+main > section figure {
+  width: 100%;
+  margin: 0;
+}
+
+main > section figure img {
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  aspect-ratio: 1;
+  object-fit: contain;
+
+  image-rendering: pixelated;
+}
+
+main > section figcaption {
+  margin-block-start: 0.75rem;
+
+  color: var(--color-muted);
+  text-align: center;
+}
+
+main > section dl {
+  margin: 0;
+}
+
+main > section dt {
+  margin-block-start: 0.5rem;
+
+  color: var(--color-muted);
+
+  font-size: 0.55rem;
+}
+
+main > section dd {
+  margin: 0.4rem 0 1.5rem;
+
+  color: var(--color-text);
+
+  font-size: 0.7rem;
+}
+
+/* ==================================================
+   STATS
+   ================================================== */
+
+article dl {
+  margin: 0;
+}
+
+article dt {
+  margin-block-start: 1rem;
+
+  color: var(--color-text);
+
+  font-size: 0.65rem;
+}
+
+article dd {
+  margin: 0.35rem 0 0;
+
+  color: var(--color-content);
+
+  font-family: "Press Start 2P", monospace;
+  font-size: 0.6rem;
+}
+
+progress {
+  width: min(100%, 18rem);
+  height: 1rem;
+
+  margin-inline-end: 0.5rem;
+
+  accent-color: var(--color-text);
+}
+/* ==================================================
    ANIMATIE
    ================================================== */
 
@@ -308,7 +360,7 @@ footer p {
   }
 }
 /* ==================================================
-   VOOR GROTER SCHERM
+   MEDIA QUERIES
    ================================================== */
 
 @media (min-width: 50rem) {
@@ -316,11 +368,11 @@ footer p {
     padding-block: 2rem;
   }
 
-  .screen {
-    padding: 3rem;
+  main > section {
+    grid-template-columns: 6rem 1fr;
   }
 
-  figure {
-    width: min(40vw, 18rem);
+  main > section figure {
+    width: 6rem;
   }
 }
