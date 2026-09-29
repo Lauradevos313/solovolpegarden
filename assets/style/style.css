@@ -47,6 +47,22 @@ body {
   line-height: 1.6;
 }
 
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.2) 0px,
+    rgba(0, 0, 0, 0.2) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+}
+
 /* ==================================================
    TYPOGRAFIE
    ================================================== */
@@ -78,18 +94,6 @@ a {
   font-size: clamp(0.65rem, 3vw, 0.8rem);
 }
 
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
 /* ==================================================
    LAYOUT
    ================================================== */
@@ -99,7 +103,7 @@ main {
 
   width: min(100% - 2rem, 60ch);
 
-  min-height: 100svh;
+  min-height: 60svh;
 
   margin-inline: auto;
   padding-block: 2rem;
@@ -143,14 +147,8 @@ header h1 {
   flex: 1;
 }
 
-.screen.is-active {
-  display: block;
-
-  animation: screen-enter 180ms ease-out;
-}
-
 /* ==================================================
-   MOGELIJK FIGURE
+    CHARACTER FIGURE
    ================================================== */
 
 figure {
@@ -283,12 +281,13 @@ ul li {
 footer {
   grid-area: footer;
   color: var(--color-footer);
-
+  padding: 0.5em;
   text-align: center;
 }
 
 footer p {
   margin: 0;
+  animation: blink 1.8s infinite;
 
   font-size: 0.5rem;
 }
@@ -297,25 +296,24 @@ footer p {
    ANIMATIE
    ================================================== */
 
-@keyframes screen-enter {
-  from {
-    opacity: 0;
-    transform: translateX(1rem);
-  }
-
-  to {
+@keyframes blink {
+  0% {
     opacity: 1;
-    transform: translateX(0);
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }
-
 /* ==================================================
    VOOR GROTER SCHERM
    ================================================== */
 
 @media (min-width: 50rem) {
   main {
-    padding-block: 4rem;
+    padding-block: 2rem;
   }
 
   .screen {
