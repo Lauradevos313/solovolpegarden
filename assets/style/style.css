@@ -3,15 +3,15 @@
    ================================================== */
 
 :root {
-  --color-background: #101010;
-  --color-text: #f5f5f5;
-  --color-muted: #777;
-  --color-content: #ccc;
-  --color-subtle: #888;
-  --color-border: #444;
-  --color-footer: #555;
-  --color-focus: #f5f5f5;
-  --color-hover: #fff;
+  --color-background: light-dark(#fefefe, #010101);
+  --color-text: light-dark (#0a0a0a, #f5f5f5);
+  --color-muted: light-dark(#888, #777);
+  --color-content: light-dark(#333, #ccc);
+  --color-subtle: light-dark(#777, #888);
+  --color-border: light-dark(#bbb, #444);
+  --color-footer: light-dark(#aaa, #555);
+  --color-focus: light-dark (#0a0a0a, #f5f5f5);
+  --color-hover: light-dark(#000, #fff);
 }
 
 @font-face {
