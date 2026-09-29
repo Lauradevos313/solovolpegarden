@@ -78,6 +78,18 @@ a {
   font-size: clamp(0.65rem, 3vw, 0.8rem);
 }
 
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 /* ==================================================
    LAYOUT
    ================================================== */
@@ -204,8 +216,6 @@ a {
 }
 
 a::before {
-  content: "";
-
   display: inline-block;
 
   width: 1.5em;
@@ -213,6 +223,7 @@ a::before {
 
 a:hover::before,
 a:focus-visible::before {
+  animation: blink 1.8s infinite;
   content: "▶";
 }
 
