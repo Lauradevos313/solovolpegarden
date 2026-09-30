@@ -4,6 +4,40 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 30 sept - Testing
+
+Ik heb in de les samen met Susanne getest! Hieruit kwam dat mijn site best toegankelijk is!
+Er kwamen 2 dingen uit die ik nog moest aanpassen (contrast van de cookies button en reduced motion (...die ik had, maar perongeluk heb verwijderd))
+De cookies button heb ik gelijk aangepast en was hierdoor ook een stuk beter (zie images below)
+
+before
+![cookies_before](assets/images/readmeimg/cookies_before.jpeg)
+en after!
+![cookies_after](assets/images/readmeimg/cookies_after.jpeg)
+CHECKOUT
+
+CHECKOUT:
+
+Waar staat WCAG en A11y voor?
+
+WCAG - Web Content Accessibility Guidelines
+Internationale standaarden voor digitale toegankelijkheid.
+
+A11y - Afkorting voor Accessibility
+
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+Ik gebruik zelf af en toe al de screenreader (zonder bril ben ik namelijk heel slechtziend), maar ik merk wel dat ik nog echt de shortcuts beter kan leren. De basic controls om een site door te komen ken ik, maar de details moet ik mij nog even in verdiepen.
+
+Met welke beperking rekening houden vind je het meest lastig?
+Ik denk Complete blindheid. Ik merk dat ik nog best struggle met alles compatible maken voor een screenreader!! Dus dat is zeker iets waar ik nog mee aan de slag moet!
+
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Nee, want er zijn genoeg opties om een site toch 'mooi' te maken voor iedereen die de site kan bekijken (of beluisteren haha)
+
+Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
+Ik heb nog niet bewust naar dit soort dingen gekeken, maar het kan zeker zijn dat ik ze onbeuwust al heb verwerkt!!
+
 ### 29 sept - weer aan de slag
 
 excuseer mijn taalgebruik, maar holy fuck wat ben ik blij dat ik beter ben. Na echt goed uit te zieken ben ik vandaag weer aan de slag gegaan.
