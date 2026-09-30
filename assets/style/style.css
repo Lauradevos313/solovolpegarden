@@ -210,7 +210,7 @@ button {
 
   margin-block-end: 2rem;
 
-  color: var(--color-content);
+  color: var(--color-hover);
 
   font-size: 0.6rem;
 }
