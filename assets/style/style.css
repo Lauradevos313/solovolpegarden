@@ -1,5 +1,5 @@
 /* ==================================================
-   BASIS
+   * MARK: BASIS
    ================================================== */
 
 :root {
@@ -14,6 +14,7 @@
   --color-footer: light-dark(#aaa, #555);
   --color-focus: light-dark(#0a0a0a, #f5f5f5);
   --color-hover: light-dark(#000, #fff);
+  --color-crt: light-dark(#0004, #3338);
 }
 
 @font-face {
@@ -58,15 +59,15 @@ body::after {
 
   background: repeating-linear-gradient(
     to bottom,
-    rgba(0, 0, 0, 0.2) 0px,
-    rgba(0, 0, 0, 0.2) 1px,
+    var(--color-crt) 0px,
+    var(--color-crt) 1px,
     transparent 1px,
     transparent 3px
   );
 }
 
 /* ==================================================
-   TYPOGRAFIE
+     * MARK:TYPOGRAFIE
    ================================================== */
 
 h1,
@@ -97,7 +98,7 @@ a {
 }
 
 /* ==================================================
-   LAYOUT
+     * MARK: MAIN
    ================================================== */
 
 main {
@@ -116,7 +117,7 @@ main {
 }
 
 /* ==================================================
-   HEADER
+     * MARK: HEADER
    ================================================== */
 
 header {
@@ -138,7 +139,7 @@ header h1 {
 }
 
 /* ==================================================
-   NAVIGATIE
+     * MARK: NAVIGATIE
    ================================================== */
 
 nav ul {
@@ -190,7 +191,7 @@ a:focus-visible {
 }
 
 /* ==================================================
-   CONTENT
+     * MARK: CONTENT
    ================================================== */
 
 article {
@@ -229,8 +230,6 @@ ul {
 
 ul li {
   padding-block: 1rem;
-
-  /*  border-block-end: 1px solid var(--color-border); */
 }
 
 .stats {
@@ -239,7 +238,7 @@ ul li {
 }
 
 /* ==================================================
-   FOOTER
+     * MARK: FOOTER
    ================================================== */
 
 footer {
@@ -257,7 +256,7 @@ footer p {
 }
 
 /* ==================================================
-   CHARACTER STATS
+     * MARK: CHARACTER STATS
    ================================================== */
 
 main > section {
@@ -313,10 +312,6 @@ main > section dd {
   font-size: 0.7rem;
 }
 
-/* ==================================================
-   STATS
-   ================================================== */
-
 article dl {
   margin: 0;
 }
@@ -346,8 +341,131 @@ progress {
 
   accent-color: var(--color-text);
 }
+
 /* ==================================================
-   ANIMATIE
+     * MARK: INVENTORY
+   ================================================== */
+
+.inventory-page {
+  width: min(100% - 2rem, 70rem);
+}
+
+.inventory-layout {
+  display: grid;
+  grid-template-columns: minmax(10rem, 1fr) minmax(0, 2fr);
+  gap: clamp(2rem, 8vw, 7rem);
+
+  align-items: start;
+}
+
+.inventory-layout fieldset {
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+}
+
+.inventory-layout legend {
+  margin-block-end: 1rem;
+
+  color: var(--color-text);
+
+  font-size: clamp(0.65rem, 3vw, 0.8rem);
+}
+
+.inventory-layout input {
+  position: absolute;
+
+  opacity: 0;
+}
+
+.inventory-layout label {
+  display: block;
+
+  width: 100%;
+
+  padding-block: 0.75rem;
+
+  color: var(--color-text);
+
+  font-family: "Press Start 2P", monospace;
+  font-size: clamp(0.65rem, 3vw, 0.8rem);
+
+  cursor: pointer;
+
+  opacity: 0.55;
+}
+
+.inventory-layout label::before {
+  display: inline-block;
+
+  width: 1.5rem;
+
+  content: "";
+}
+
+.inventory-layout label:hover {
+  opacity: 1;
+}
+
+.inventory-layout input:checked + label {
+  opacity: 1;
+}
+
+.inventory-layout input:checked + label::before {
+  content: "▶";
+  animation: blink 1.8s infinite;
+}
+
+.inventory-layout input:focus-visible + label {
+  outline: 0.15rem solid var(--color-focus);
+  outline-offset: 0.3rem;
+}
+
+.inventory-content {
+  min-width: 0;
+}
+
+.inventory-panel {
+  display: none;
+
+  min-width: 0;
+  min-height: 30rem;
+
+  padding: 3rem;
+
+  border: 0.1rem solid var(--color-border);
+}
+
+.inventory-panel h2 {
+  margin-block-end: 3rem;
+}
+
+.inventory-panel p {
+  max-width: 55ch;
+  overflow-wrap: break-word;
+
+  color: var(--color-content);
+
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.inventory-layout:has(#ned:checked) .ned {
+  display: block;
+}
+
+.inventory-layout:has(#secondhand:checked) .secondhand {
+  display: block;
+}
+
+.inventory-layout:has(#vault:checked) .vault {
+  display: block;
+}
+
+/* ==================================================
+     * MARK: ANIMATIE
    ================================================== */
 
 @keyframes blink {
@@ -362,7 +480,7 @@ progress {
   }
 }
 /* ==================================================
-   MEDIA QUERIES
+     * MARK: MEDIA QUERIES 
    ================================================== */
 
 @media (min-width: 50rem) {
@@ -376,5 +494,18 @@ progress {
 
   main > section figure {
     width: 6rem;
+  }
+
+  .inventory-layout {
+    grid-template-columns: minmax(10rem, 0.7rem) minmax(0, 2fr);
+    gap: clamp(2rem, 8vw, 7rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  footer p,
+  a:hover::before,
+  a:focus-visible::before {
+    animation: none;
   }
 }

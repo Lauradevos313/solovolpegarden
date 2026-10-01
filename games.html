@@ -8,6 +8,71 @@
     <link rel="stylesheet" href="./assets/style/style.css" />
   </head>
   <body>
-    <header>hier komt een game pagina</header>
+    <header>
+      <h1>INVENTORY</h1>
+    </header>
+    <main class="inventory-page">
+      <a href="index.html">← BACK</a>
+      <div class="inventory-layout">
+        <fieldset>
+          <legend>>INVENTORY</legend>
+
+          <input
+            type="radio"
+            name="inventory"
+            id="ned"
+            aria-controls="ned-panel"
+          />
+          <label for="ned">NEDGAMES</label>
+
+          <input
+            type="radio"
+            name="inventory"
+            id="secondhand"
+            aria-controls="secondhand-panel"
+          />
+          <label for="secondhand">2ND HAND SHOPS</label>
+
+          <input
+            type="radio"
+            name="inventory"
+            id="vault"
+            aria-controls="vault-panel"
+          />
+          <label for="vault">THE VAULT</label>
+        </fieldset>
+
+        <section class="inventory-content" aria-live="polite">
+          <article class="inventory-panel ned" id="ned-panel">
+            <h2>NEDGAMES</h2>
+            <p>
+              From their website: Nedgame is a true paradise for every gamer. In
+              addition to games, consoles, and accessories for all current
+              systems—such as PlayStation 5, PlayStation 4, PlayStation 3,
+              PlayStation Vita, Nintendo Switch, Nintendo Wii U, Nintendo 3DS,
+              Xbox Series X/S, Xbox One, Xbox 360, and PC—our game store is also
+              well-stocked with games and accessories for older systems like the
+              Nintendo Wii, GameCube, Xbox, Dreamcast, Nintendo DS, Sony PSP,
+              and PlayStation 2, as well as retro systems such as the Nintendo
+              NES, Super Nintendo, Nintendo 64, Sega Mega Drive, Sega Saturn,
+              and PlayStation 1.
+            </p>
+            <a href="https://www.nedgame.nl/retro/">WEBSITE</a>
+          </article>
+          <article class="inventory-panel secondhand" id="secondhand=panel">
+            <h2>2ND HAND SHOPS</h2>
+            <p>NOTHING YET, NEED TO GET THE LINKS AND INFO.</p>
+          </article>
+          <article class="inventory-panel vault" id="vault-panel">
+            <h2>THE VAULT+</h2>
+            <p>For the ones that like to sail the seven seas ;)</p>
+            <a href="https://vimm.net/">AHOY!</a>
+          </article>
+        </section>
+      </div>
+    </main>
   </body>
+  <footer>
+    <p>V2.6 // SYSTEM ONLINE</p>
+  </footer>
 </html>
