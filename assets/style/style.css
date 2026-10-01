@@ -32,7 +32,7 @@ html {
 
 body {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr minmax(0, 70rem) 1fr;
   grid-template-areas:
     ". header ."
     ". main ."
@@ -497,7 +497,7 @@ progress {
   }
 
   .inventory-layout {
-    grid-template-columns: minmax(10rem, 0.7rem) minmax(0, 2fr);
+    grid-template-columns: minmax(10rem, 1fr) minmax(0, 2fr);
     gap: clamp(2rem, 8vw, 7rem);
   }
 }
