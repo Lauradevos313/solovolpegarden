@@ -21,6 +21,10 @@
   font-family: "Press Start 2P";
   src: url("/assets/type/PressStart2P-Regular.ttf");
 }
+@font-face {
+  font-family: "Silkscreen";
+  src: url(/assets/type/Silkscreen-Regular.ttf);
+}
 
 * {
   box-sizing: border-box;
