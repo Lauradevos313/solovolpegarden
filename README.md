@@ -4,6 +4,57 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 5 okt - Start sprint 3
+
+[TEKST SCHRIJVEN OVER VANDAAG]
+![Lyric schetsen](/assets/images/readmeimg/lyrics.png)
+
+CHECKOUT:
+
+1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
+
+Kerning
+
+- Kerning past kleine spaties tussen tekens aan
+  en corrigeert slecht passende paren die afleiden door
+  botsingen of spaties.
+  Tracking
+- Leading
+  de verticale afstand van de ene basislijn naar de volgende, gemeten in punten.
+- Flush-left/Flush-right
+  tekst die uitgelijnd is met de linker/rechter kant. Flush-left is het meest voorkomend en het fijnst om te lezen omdat het de natuurlijke leesbeweging stimuleert. Flush-right contrasteerd goed met flush-left en is goed voor lines en woorden.
+- Centered
+  Gecentreerde uitlijning van tekst. Nuttig in beperkte omgevingen met minimale tekst, zoals titelpagina's van boeken. Het wordt niet vaak gebruikt voor doorlopende stukken tekst zoals alinea's
+- Justified
+  De breedte van de woordafstand is afhankelijk van de lettergrootte, de regellengte en het aantal tekens per regel.
+- Indent/Outdent
+  Beweging van een stuk tekst (naar binnen of naar buiten) om hierarchie aan te tonen of een lijst duidelijk te maken
+- Modular scale
+- Een manier van lettergroottes scalen op basis van ratio's (golden ratio, perfect fifths etc). Hierdoor blijven de verschillende headings etc in harmonie.
+- Movable type
+  Een printsysteem dat gebruikmaakt van herbruikbare onderdelen voor elk teken of elke letter.
+- Focus punt
+  De plek waar je ogen automatisch als eerste naartoe worden getrokken wanneer je ergens naar kijkt.
+- Vijf soorten contrast
+  Kleur, Grootte, ruimte, gewicht en vorm.
+- Spatial tension
+  Een manier om je design dynamischer te maken.
+  Je kunt op veel manieren spatial tension creëren.
+  Zes methoden zijn: het midden vermijden, een richting vormgeven, ongelijke vormen/randen creëren, contrast creëren tussen de groottes van witte vormen, rekening houden met de z-as en rekening houden met de randen.
+
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+Mijn ideale regellengte is tussen de 50 en 60, anders wordt het echt te druk voor mijn ogen om op de letters te kunnen focussen.
+
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+Ik zou voor lettersoorten kiezen. Met de andere opties valt wel te spelen, maar niet op de schaal dat je met lettersoorten kan spelen.
+
+### 2 okt - feedback en retrospective
+
+[FEEDBACK OPSCHRIJVEN]
+[FOTOS RETROSPECTIVE INVOEGEN]
+
 ### 30 sept - Testing
 
 Ik heb in de les samen met Susanne getest! Hieruit kwam dat mijn site best toegankelijk is!
@@ -14,7 +65,6 @@ before
 ![cookies_before](assets/images/readmeimg/cookies_before.jpeg)
 en after!
 ![cookies_after](assets/images/readmeimg/cookies_after.jpeg)
-CHECKOUT
 
 CHECKOUT:
 
