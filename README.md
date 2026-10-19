@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 19 okt - Maandag
+
+feedback van Poema -
+
+- Quest pagina is leuk!
+- meer afbeeldingen die bij thema passen invoegen
+- Lettertype van paragraaf in inventory nog 1x bekijken
+
 ### 9 okt - Laatste dag voor herfstreces
 
 Ik ben duidelijk toe aan vakantie, ik had de lyrics donderdag uitgewerkt op mijn desktop maar was helemaal vergeten het weer naar mn laptop te sturen... Dus de feedback vandaag ging over waar ik woensdag mee geeindigd was ipv wat ik daadwerlijk af had donderdag...

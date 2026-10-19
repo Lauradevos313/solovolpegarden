@@ -5,9 +5,9 @@
 :root {
   color-scheme: light dark;
 
-  --color-background: light-dark(#fefefe, #010101);
+  --color-background: light-dark(#f4b2cb, #010101);
   --color-text: light-dark(#0a0a0a, #f5f5f5);
-  --color-muted: light-dark(#888, #777);
+  --color-muted: light-dark(#5c4074, #777);
   --color-content: light-dark(#333, #ccc);
   --color-subtle: light-dark(#777, #888);
   --color-border: light-dark(#bbb, #444);
