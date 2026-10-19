@@ -4,6 +4,42 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 okt - Laatste dag voor herfstreces
+
+Ik ben duidelijk toe aan vakantie, ik had de lyrics donderdag uitgewerkt op mijn desktop maar was helemaal vergeten het weer naar mn laptop te sturen... Dus de feedback vandaag ging over waar ik woensdag mee geeindigd was ipv wat ik daadwerlijk af had donderdag...
+[PC VERSIE]
+Feeback over songtekst opdracht:
+
+- intro lijkt nu brick wall, is dat de bedoeling? (goed idee: ticker tape! gelijk mee begonnen!!!)
+- Let op witruimte en grootte van woorden
+- Intonatie laten zien zonder de woorden te veel ruimte in te laten nemen
+
+[Versie na feedback]
+CHECKOUT:
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+- Ik gebruik verschillende door de songtekst heen, maar voor het grootste deel gebruik ik:
+  "wght" 110,
+  "SRFS" 5;
+
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+- antwoord
+  Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+- antwoord
+
+### 7 okt - Lyrics
+
+[NOTITIES UIT SCHRIFT INVOEGEN]
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+- antwoord
+  Noem drie manieren om chaos in je ontwerp te voorkomen.
+- antwoord
+  Hoeveel gekkigheid moet er in je werk zitten?
+- antwoord
+  ![eerste versie](/assets/images/readmeimg/1elyrics.png)
+
 ### 5 okt - Start sprint 3
 
 [TEKST SCHRIJVEN OVER VANDAAG]
@@ -52,7 +88,16 @@ Ik zou voor lettersoorten kiezen. Met de andere opties valt wel te spelen, maar 
 
 ### 2 okt - feedback en retrospective
 
-[FEEDBACK OPSCHRIJVEN]
+notities feedback:
+
+- deepdives als 1e bron pakken, geen eigen workarounds bedenken/gebruiken maar aangereikte stof zo veel mogelijk gebruiken.
+- HTML in schets helpt veel met al nadenken hoe iets vormgegeven kan worden.
+- Human concent notice uitwerken.
+- fieldset vervangen door andere optie.
+- Bronnen verzamelen en als comments bij de code zetten waar ze zijn gebruikt.
+- elements uit script halen en andere namen geven (a en i)
+- apart JS bestand aanmaken, is cleaner.
+
 [FOTOS RETROSPECTIVE INVOEGEN]
 
 ### 30 sept - Testing

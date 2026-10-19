@@ -72,6 +72,7 @@
       </form>
     </dialog>
     <script>
+      <!-- Bron voor dit script: https://stackoverflow.com/questions/37751759/generating-a-random-link-through-javascript-html-->
       var sites = [
         "https://minesweeperonline.com/",
         "https://dos.zone/microsoft-3d-pinball-space-cadet/",
@@ -80,7 +81,7 @@
       ];
 
       function randomSite() {
-        const a = document.createElement("a");
+        const a = document.createElement("wat");
         var i = parseInt(Math.random() * sites.length);
         location.href = sites[i];
       }

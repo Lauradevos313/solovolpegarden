@@ -1,0 +1,190 @@
+/* MARK: fonts */
+@font-face {
+  font-family: "Seraphs";
+  src: url("font/SeraphsVF.woff2") format("woff2");
+}
+/* MARK: items */
+
+/* Bron voor hulp/inspo voor de ticker tape animatie: https://www.ryangittings.co.uk/blog/pure-css-ticker/ */
+
+body {
+  font-family: "Seraphs";
+}
+main {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-rows: repeat(12, minmax(0, auto));
+  width: min(100%, 80rem);
+  margin-inline: auto;
+  padding-inline: 1rem;
+  box-sizing: border-box;
+  font-variation-settings:
+    "wght" 110,
+    "SRFS" 5;
+  font-size: 2em;
+  line-height: 3rem;
+  column-width: auto;
+}
+
+main > {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.ticker {
+  --ticker-duration: 40s;
+  font-size: xx-large;
+  font-variant: small-caps;
+
+  position: relative;
+
+  width: 100%;
+
+  overflow: hidden;
+
+  padding: 0.5rem;
+}
+
+.ticker__inner {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  flex-wrap: nowrap;
+
+  white-space: nowrap;
+
+  animation-iteration-count: infinite;
+
+  animation-timing-function: linear;
+
+  animation-name: ticker;
+
+  animation-duration: var(--ticker-duration);
+
+  text-align: center;
+
+  padding-left: 100%;
+
+  width: max-content;
+}
+
+.ticker__inner p {
+  margin: 0 2rem;
+}
+
+@keyframes ticker {
+  0% {
+    transform: translate3d(0%, 0, 0);
+  }
+
+  100% {
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+.intro {
+  grid-area: 1 / 1 / 3 / 13;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 80;
+  width: 100%;
+  text-align: center;
+  text-align-last: justify;
+}
+
+.v1 {
+  grid-area: 3 / 2 / 4 / 7;
+}
+
+.bigleft {
+  grid-area: 4 / 5 / 7 / 7;
+  text-align: left;
+  margin-left: 15rem;
+}
+
+.bigright {
+  grid-area: 3 / 4 / 5 / 5;
+  text-align: right;
+  margin-right: 15rem;
+  margin-top: 15rem;
+}
+h1 {
+  font-weight: bolder;
+  font-style: oblique;
+  font-size: 7vw;
+}
+h2 {
+  grid-area: 4 / 4 / 4 / 4;
+}
+h3 {
+  grid-area: 5/ 5 / 5 / 5;
+}
+
+h4 {
+  grid-area: 6 / 6 /6 /6;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+  font-style: italic;
+  font-size: 15rem;
+  line-height: 10rem;
+}
+
+.hudson {
+  grid-area: 7 / 7 / 9 / 13;
+}
+.fullsteam {
+  grid-area: 8 / 3 / 9 / 5;
+}
+.ramble {
+  letter-spacing: -10%;
+  font-variation-settings:
+    "wght" 185,
+    "SRFS" 25;
+}
+
+em {
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 60;
+}
+
+strong {
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+.mario {
+  color: darkred;
+  grid-area: 10 / 8 / 12 / 9;
+}
+.ip {
+  grid-area: 9 / 9 / 9 / 9;
+}
+.oldschool {
+  grid-area: 11 / 11 / 11 / 11;
+}
+.vertical {
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 60;
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  text-shadow: #555 1rem 0;
+}
+.slop {
+  grid-area: 12 / 12 / 13/ 13;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ticker__inner {
+    flex-wrap: wrap;
+
+    white-space: inherit;
+
+    padding-left: 0;
+
+    width: auto;
+  }
+}
