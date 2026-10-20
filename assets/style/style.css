@@ -5,13 +5,13 @@
 :root {
   color-scheme: light dark;
 
-  --color-background: light-dark(#f4b2cb, #010101);
-  --color-text: light-dark(#0a0a0a, #f5f5f5);
-  --color-muted: light-dark(#5c4074, #777);
-  --color-content: light-dark(#333, #ccc);
-  --color-subtle: light-dark(#777, #888);
-  --color-border: light-dark(#bbb, #444);
-  --color-footer: light-dark(#aaa, #555);
+  --color-background: light-dark(#ffa9f8, #010101);
+  --color-text: light-dark(#8e39a8, #f5f5f5);
+  --color-muted: light-dark(#91578c, #777);
+  --color-content: light-dark(#fb93d3, #ccc);
+  --color-subtle: light-dark(#5c4074, #888);
+  --color-border: light-dark(#872020, #444);
+  --color-footer: light-dark(#ca326a, #555);
   --color-focus: light-dark(#0a0a0a, #f5f5f5);
   --color-hover: light-dark(#000, #fff);
   --color-crt: light-dark(#0004, #3338);
@@ -240,6 +240,18 @@ ul li {
 .stats {
   outline: 0.15rem solid var(--color-focus);
   outline-offset: 0.3rem;
+}
+
+/* ==================================================
+   * MARK: COOKIES
+   ================================================== */
+
+#cookieModal {
+  background-color: var(--color-content);
+}
+
+button {
+  background-color: #100;
 }
 
 /* ==================================================

@@ -15,6 +15,7 @@
       src="https://digitaaltuintje.nl/webring.js"
       defer
     ></script>
+    <script src="random.js"></script>
   </head>
   <body>
     <header>
@@ -27,7 +28,9 @@
 
         <ul>
           <li>
-            <a href="#" onclick="randomSite()">PLAY</a>
+            <a href="#" onclick="randomSite()" data-screen="Random game site"
+              >PLAY</a
+            >
           </li>
 
           <li>
@@ -52,7 +55,7 @@
       <button commandfor="cookieModal" command="show-modal">
         <span>Are there cookies?</span>
       </button>
-      <p>V2.6 // SYSTEM ONLINE</p>
+      <p>V2.8 // SYSTEM ONLINE</p>
     </footer>
 
     <dialog id="cookieModal">
@@ -71,20 +74,5 @@
         <button onclick="unsetCookie()">I'd rather not.</button>
       </form>
     </dialog>
-    <script>
-      <!-- Bron voor dit script: https://stackoverflow.com/questions/37751759/generating-a-random-link-through-javascript-html-->
-      var sites = [
-        "https://minesweeperonline.com/",
-        "https://dos.zone/microsoft-3d-pinball-space-cadet/",
-        "https://playsnake.org",
-        "https://youtu.be/dQw4w9WgXcQ?si=BR2DAPBB2RrRakdo",
-      ];
-
-      function randomSite() {
-        const a = document.createElement("wat");
-        var i = parseInt(Math.random() * sites.length);
-        location.href = sites[i];
-      }
-    </script>
   </body>
 </html>
