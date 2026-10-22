@@ -201,6 +201,17 @@ a:focus-visible::before {
   content: "▶";
 }
 
+.back:hover::before,
+.back:focus-visible::before {
+  content: none;
+}
+
+.back:hover,
+.back:focus-visible {
+  outline: 0.15rem solid var(--color-focus);
+  outline-offset: 0.3rem;
+}
+
 a:focus-visible,
 summary:hover,
 summary:focus-visible {
