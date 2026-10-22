@@ -10,6 +10,10 @@ om echt goed de focus te kunnen pakken (en niet afgeleid te worden door games/vr
 
 ![bieb werkplek](/assets/images/readmeimg/biebwerkplek.jpeg)
 
+Later op de avond had ik nog een teamuitje, waar ik mijn laptop mee naartoe heb genomen om toch nog ff aan de slag te kunnen!
+
+![aan het werk in de pub](/assets/images/readmeimg/pubwork.jpg)
+
 ### 21 okt - bi-weekly geek
 
 ![geek blad 1](/assets/images/readmeimg/peerform1.jpeg)
