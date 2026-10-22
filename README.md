@@ -14,6 +14,12 @@ Later op de avond had ik nog een teamuitje, waar ik mijn laptop mee naartoe heb 
 
 ![aan het werk in de pub](/assets/images/readmeimg/pubwork.jpg)
 
+dingen die ik nog moet/wil fixen:
+
+- als je van gedachten veranderd over cookies, dat als je toch nee klikt de link weer onklikbaar wordt. (bij toch wel cookies accepteren na geen concent te geven wordt de link wel klikbaar, maar andersom niet...)
+
+- schetsen toevoegen in de readme.... ik blijf het vergeten...
+
 ### 21 okt - bi-weekly geek
 
 ![geek blad 1](/assets/images/readmeimg/peerform1.jpeg)
