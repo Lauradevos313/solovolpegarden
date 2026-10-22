@@ -13,6 +13,7 @@ function randomSite() {
   location.href = sites[i];
 }
 
+/* code voor als de gebruiker cookies niet accepteert op 1e bezoek van de pagina, de playknop wordt gedisabled*/
 function testing() {
   var element = document.getElementById("playsite");
   element.classList.remove("disabled");
