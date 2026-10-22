@@ -9,18 +9,18 @@ om duidelijk te maken wat het is/doet en zodat ik het ook zelf nog kan terugvind
 :root {
   color-scheme: light dark;
 
-  --color-background: light-dark(#d6b8ed, #010101);
-  --color-text: light-dark(#892a6f, #f5f5f5);
-  --color-muted: light-dark(#8355b4, #777);
+  --color-background: light-dark(#d6b8ed, #16002a);
+  --color-text: light-dark(#892a6f, #a4a4ef);
+  --color-muted: light-dark(#8355b4, #a0a0c8);
   --color-content: light-dark(#010101, #ccc);
-  --color-cookie: light-dark(#f5f5f5, #000);
+  --color-cookie: light-dark(#f5f5f5, #3a2849);
   --color-subtle: light-dark(#8355b4, #888);
-  --color-border: light-dark(#872020, #444);
-  --color-footer: light-dark(#ca326a, #555);
+  --color-border: light-dark(#872020, #a569c9);
+  --color-footer: light-dark(#ca326a, #971fe6);
   --color-focus: light-dark(#010101, #f5f5f5);
-  --color-hover: light-dark(#710bcc, #fff);
+  --color-hover: light-dark(#710bcc, #f5f5f5);
   --color-crt: light-dark(#0004, #3338);
-  --color-disabled: light-dark(#ac71a7, #484848);
+  --color-disabled: light-dark(#ac71a7, #4b4b70);
 }
 
 /* fonts die gebruikt worden */
