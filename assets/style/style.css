@@ -9,16 +9,16 @@ om duidelijk te maken wat het is/doet en zodat ik het ook zelf nog kan terugvind
 :root {
   color-scheme: light dark;
 
-  --color-background: light-dark(#ffa9f8, #010101);
-  --color-text: light-dark(#8e39a8, #f5f5f5);
-  --color-muted: light-dark(#91578c, #777);
-  --color-content: light-dark(#fb93d3, #ccc);
-  --color-cookie: light-dark(#fff, #000);
-  --color-subtle: light-dark(#5c4074, #888);
+  --color-background: light-dark(#d6b8ed, #010101);
+  --color-text: light-dark(#892a6f, #f5f5f5);
+  --color-muted: light-dark(#8355b4, #777);
+  --color-content: light-dark(#010101, #ccc);
+  --color-cookie: light-dark(#f5f5f5, #000);
+  --color-subtle: light-dark(#8355b4, #888);
   --color-border: light-dark(#872020, #444);
   --color-footer: light-dark(#ca326a, #555);
-  --color-focus: light-dark(#0a0a0a, #f5f5f5);
-  --color-hover: light-dark(#000, #fff);
+  --color-focus: light-dark(#010101, #f5f5f5);
+  --color-hover: light-dark(#710bcc, #fff);
   --color-crt: light-dark(#0004, #3338);
   --color-disabled: light-dark(#ac71a7, #484848);
 }
