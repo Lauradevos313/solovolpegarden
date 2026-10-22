@@ -29,6 +29,11 @@ om duidelijk te maken wat het is/doet en zodat ik het ook zelf nog kan terugvind
   font-family: "Press Start 2P";
   src: url("/assets/type/PressStart2P-Regular.ttf");
 }
+
+@font-face {
+  font-family: "Silkscreen";
+  src: url(/assets/type/Silkscreen-Regular.ttf);
+}
 @font-face {
   font-family: "HennyPenny";
   src: url(/assets/type/HennyPenny-Regular.ttf);
@@ -386,9 +391,14 @@ summary {
   color: var(--color-focus);
   cursor: pointer;
 }
+
+details p {
+  font-family: "Silkscreen", system-ui;
+}
 #childhood {
   width: 100%;
   height: auto;
+  padding-top: 1vw;
   aspect-ratio: 1;
   object-fit: contain;
   image-rendering: pixelated;
@@ -495,6 +505,10 @@ summary {
 .inventory-panel::scroll-marker:focus-visible {
   outline: 0.15rem solid var(--color-focus);
   outline-offset: 0.3rem;
+}
+
+.inventory-content p {
+  font-family: "Silkscreen", system-ui;
 }
 
 /* ==================================================
