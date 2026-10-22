@@ -201,7 +201,9 @@ a:focus-visible::before {
   content: "▶";
 }
 
-a:focus-visible {
+a:focus-visible,
+summary:hover,
+summary:focus-visible {
   outline: 0.15rem solid var(--color-focus);
   outline-offset: 0.3rem;
 }
@@ -369,8 +371,16 @@ progress {
 
   accent-color: var(--color-text);
 }
-
+summary {
+  color: var(--color-focus);
+  cursor: pointer;
+}
 #childhood {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: contain;
+  image-rendering: pixelated;
 }
 /* ==================================================
      * MARK: INVENTORY 
