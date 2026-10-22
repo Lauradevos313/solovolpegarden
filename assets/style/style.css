@@ -1,31 +1,39 @@
+/* hoooii, ik heb bij (bijna) elke chunk code een comment gezet met wat het doet! 
+om duidelijk te maken wat het is/doet en zodat ik het ook zelf nog kan terugvinden :D */
+
 /* ==================================================
    * MARK: BASIS
    ================================================== */
 
+/* light-dark colour scheme */
 :root {
   color-scheme: light dark;
 
   --color-background: light-dark(#ffa9f8, #010101);
   --color-text: light-dark(#8e39a8, #f5f5f5);
   --color-muted: light-dark(#91578c, #777);
-  --color-content: light-dark(#fb93d3, #ccc);
+  --color-content: light-dark(#fb93d3, #6c4981);
   --color-subtle: light-dark(#5c4074, #888);
   --color-border: light-dark(#872020, #444);
   --color-footer: light-dark(#ca326a, #555);
   --color-focus: light-dark(#0a0a0a, #f5f5f5);
   --color-hover: light-dark(#000, #fff);
   --color-crt: light-dark(#0004, #3338);
+  --color-disabled: light-dark(#ac71a7, #484848);
 }
+
+/* fonts die gebruikt worden */
 
 @font-face {
   font-family: "Press Start 2P";
   src: url("/assets/type/PressStart2P-Regular.ttf");
 }
 @font-face {
-  font-family: "Silkscreen";
-  src: url(/assets/type/Silkscreen-Regular.ttf);
+  font-family: "HennyPenny";
+  src: url(/assets/type/HennyPenny-Regular.ttf);
 }
 
+/* algemene styling van de pagina */
 * {
   box-sizing: border-box;
 }
@@ -54,6 +62,8 @@ body {
   line-height: 1.6;
 }
 
+/* De CRT lines die over de pagina heen gaan.
+door body::after te gebruiken (en een z-index van 9999) is het een soort overlay over de body heen.*/
 body::after {
   content: "";
   position: fixed;
@@ -74,11 +84,9 @@ body::after {
      * MARK:TYPOGRAFIE
    ================================================== */
 
-h1,
-h2,
-h3,
-p {
-  margin-block-start: 0;
+.namepage {
+  font-family: "HennyPenny", serif, system-ui;
+  font-size: clamp(2rem, 5vw, 4rem);
 }
 
 h1 {
@@ -156,6 +164,12 @@ nav ul {
 
 nav li + li {
   margin-block-start: 0.5rem;
+}
+
+.disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+  pointer-events: none;
 }
 
 a {

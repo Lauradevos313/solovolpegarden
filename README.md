@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 22 okt - laatste loodjes in de bieb
+
+om echt goed de focus te kunnen pakken (en niet afgeleid te worden door games/vrienden/de buitenwereld) heb ik besloten om vandaag in de bieb te werken! een duidelijke to do list voor mijzelf gemaakt en een stille plek opgezocht waar ik echt even kan knallen!
+
+![bieb werkplek](/assets/images/readmeimg/biebwerkplek.jpeg)
+
+### 21 okt - bi-weekly geek
+
+![geek blad 1](/assets/images/readmeimg/peerform1.jpeg)
+![geek blad 2](/assets/images/readmeimg/peerform2.jpeg)
+
 ### 19 okt - Maandag
 
 feedback van Poema -
@@ -22,7 +33,7 @@ Feeback over songtekst opdracht:
 - Let op witruimte en grootte van woorden
 - Intonatie laten zien zonder de woorden te veel ruimte in te laten nemen
 
-[Versie na feedback]
+![Versie na feedback](assets/images/readmeimg/lyrics3.png)
 CHECKOUT:
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 
@@ -32,21 +43,32 @@ Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 
 Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
 
-- antwoord
-  Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
-- antwoord
+- Bij mij voegt het hierarchie toe, maar ook laat het de woorden die luider gezongen/gerapt worden van de pagina springen
+
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+
+- door de tekst te laten schudden of wavy te maken kan je duidelijk maken hoe de artiest de lyrics aan het zingen/rappen/zeggen is.
 
 ### 7 okt - Lyrics
 
-[NOTITIES UIT SCHRIFT INVOEGEN]
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 
 - antwoord
-  Noem drie manieren om chaos in je ontwerp te voorkomen.
+  een grid kan een ontwerper helpen met elementen heel precies te plaatsen. Voor een bezoeker zijn grids fijn omdat ze voor een duidelijke structuur/hierarchie op een pagina zorgen
+
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+
 - antwoord
-  Hoeveel gekkigheid moet er in je werk zitten?
-- antwoord
-  ![eerste versie](/assets/images/readmeimg/1elyrics.png)
+
+1. grids gebruiken
+2. niet te veel kleuren gebruiken/een vast kleurschema gebruiken
+3. goed gebruik van witruimte
+
+Hoeveel gekkigheid moet er in je werk zitten?
+
+- zo veel als jouw idee ondersteunt, maar niet zo veel dat het jouw werk onlees- of onbruikbaar maakt.
+
+  ![eerste versie](/assets/images/readmeimg/lyrics2.png)
 
 ### 5 okt - Start sprint 3
 
@@ -115,9 +137,9 @@ Er kwamen 2 dingen uit die ik nog moest aanpassen (contrast van de cookies butto
 De cookies button heb ik gelijk aangepast en was hierdoor ook een stuk beter (zie images below)
 
 before
-![cookies_before](assets/images/readmeimg/cookies_before.jpeg)
+![cookies before](/assets/images/readmeimg/cookies_before.png)
 en after!
-![cookies_after](assets/images/readmeimg/cookies_after.jpeg)
+![cookies after](/assets/images/readmeimg/cookies_after.png)
 
 CHECKOUT:
 
@@ -150,7 +172,7 @@ Terwijl ik ziek was, heb ik hard nagedacht over wat ik nou echt wou laten zien i
 
 Op basis van mijn schetsen ben ik gaan denken hoe ik dit ga vormgeven in code en welke elementen ik ga gebruiken.
 Toen ik langer dan 5 minuten naar een scherm kon kijken, ben ik begonnen met coderen in VSCode zodat ik hier mijn progress niet kwijt zou raken als ik besloot toch terug te gaan naar mijn oude idee.
-Wanneer ik vastliep ben ik naar MDN gegaan om te kijken hoe ik door kon en welke elementen ik kan gebruiken.
+Wanneer ik vastliep ben ik naar de MDN gegaan om te kijken hoe ik door kon en welke elementen ik kan gebruiken.
 
 Uiteindelijk is mijn idee heel simpel geworden, maar het laat wel duidelijk de vibe zien die ik in gedachten had!!
 Het is zeker nog niet waar ik het wil hebben, maar ik ben al blij met wat er nu staat.
@@ -226,7 +248,7 @@ Vandaag was ik bezig geweest met de presentatie voor woensdag maken met remark.
 Ik wou zo veel mogelijk de markdown gebruiken en zo min mogelijk HTML, maar dat bleek onmogelijk aangezien de markdown niet werkte hoe het hoorde.
 Ik heb de hele wiki doorgelezen en ben forums afgegaan om te kijken waarom niets mij lukte. Helaas kwam hier niets uit want ik had alles correct gedaan.
 
-ik heb hierdoor mijn presentatie hel minimalistisch genhouden en helaas niet kunnen doen hoe ik wil T^T
+ik heb hierdoor mijn presentatie heel minimalistisch genhouden en helaas niet kunnen doen hoe ik wil T^T
 
 Ik heb de deep dive voor light & dark mode doorgenomen
 
@@ -386,6 +408,9 @@ Met meerdere diktes van een font:
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+
+![zelftest 1](/assets/images/readmeimg/zelftest1.jpeg)
+![zelftest 2](/assets/images/readmeimg/zelftest2.jpeg)
 
 checkout vragen:
 1 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
