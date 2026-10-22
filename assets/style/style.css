@@ -384,13 +384,14 @@ progress {
   min-width: 0;
 }
 
+/* ik heb max-width: none gedaan zodat de panelen niet te smal worden! */
 .inventory-panel {
   max-width: none;
 
   min-width: 0;
   min-height: 30rem;
 
-  padding: 3rem;
+  padding: clamp(1.5rem, 5vw, 3rem);
 
   border: 0.1rem solid var(--color-border);
 }
@@ -409,7 +410,7 @@ progress {
   font-size: 1rem;
   line-height: 1.7;
 }
-/* zet de panelen naast elkaar in een scrollbare rij en laat de browser er tabs boven maken (alleen Chrome :( ) */
+/* dit zet de panelen naast elkaar in een scrollbare rij en laat de browser er tabs boven maken (alleen Chrome :( ) */
 @supports selector(::scroll-marker) {
   .inventory-content {
     display: flex;
