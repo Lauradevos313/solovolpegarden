@@ -16,7 +16,9 @@ Later op de avond had ik nog een teamuitje, waar ik mijn laptop mee naartoe heb 
 
 dingen die ik nog moet/wil fixen:
 
-- als je van gedachten veranderd over cookies, dat als je toch nee klikt de link weer onklikbaar wordt. (bij toch wel cookies accepteren na geen concent te geven wordt de link wel klikbaar, maar andersom niet...)
+- als je van gedachten veranderd over cookies, dat als je toch nee klikt de link weer onklikbaar wordt. (bij toch wel cookies accepteren na geen consent te geven wordt de link wel klikbaar, maar andersom niet...)
+
+- favicon maken voor de site....
 
 - schetsen toevoegen in de readme.... ik blijf het vergeten...
 

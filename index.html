@@ -8,6 +8,12 @@
 
     <title>SOLOVOLPE</title>
     <link rel="stylesheet" href="./assets/style/style.css" />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="/assets/images/siteimages/tails.ico"
+    />
+    <!-- bron voor favicon: https://pin.it/1fyfowoH2. (origineel van SEGA) -->
 
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
     <script
@@ -34,6 +40,7 @@
               data-screen="Random game site"
               class="disabled"
               id="playsite"
+              aria-label="Play. Unable to select if cookies were rejected!"
               >PLAY</a
             >
           </li>
@@ -75,6 +82,12 @@
           Tuintje server. The person who manages this component, has stated that
           he does not store visitor data.
         </p>
+        <p>
+          If you decide to not give consent, the play button taking you to
+          external sites becomes unclickable. Contact will remain available, but
+          clicking the links is at your own discretion.
+        </p>
+
         <button onclick="testing()">All good!</button>
         <button onclick="unsetCookie()">I'd rather not.</button>
       </form>
