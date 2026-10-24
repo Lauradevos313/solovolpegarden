@@ -4,6 +4,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 24/25 okt - last details voor de deadline!
+
+### al mijn schetsen (ik was ze steeds vergeten in te voegen...)
+
+![snelle schets 1](assets/images/readmeimg/snelschets1.jpeg)
+![schetsen](/assets/images/readmeimg/schets1.jpeg)
+![schetsen](/assets/images/readmeimg/schetsen2.jpeg)
+![schetsen](/assets/images/readmeimg/schets3.jpeg)
+![schetsen](/assets/images/readmeimg/schetsen4.jpeg)
+
+### 23 okt - feedback en retrospective
+
+![piek en dal](/assets/images/readmeimg/retro3a.jpeg)
+![tekening](/assets/images/readmeimg/retro3b.jpeg)
+
 ### 22 okt - laatste loodjes in de bieb
 
 om echt goed de focus te kunnen pakken (en niet afgeleid te worden door games/vrienden/de buitenwereld) heb ik besloten om vandaag in de bieb te werken! een duidelijke to do list voor mijzelf gemaakt en een stille plek opgezocht waar ik echt even kan knallen!
@@ -140,7 +155,8 @@ notities feedback:
 - elements uit script halen en andere namen geven (a en i)
 - apart JS bestand aanmaken, is cleaner.
 
-[FOTOS RETROSPECTIVE INVOEGEN]
+![piek en dal](/assets/images/readmeimg/retro2a.jpeg)
+![tekening](/assets/images/readmeimg/retro2b.jpeg)
 
 ### 30 sept - Testing
 
@@ -175,12 +191,16 @@ Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen to
 
 Ik heb nog niet bewust naar dit soort dingen gekeken, maar het kan zeker zijn dat ik ze onbeuwust al heb verwerkt!!
 
+![wcag page 1](/assets/images/readmeimg/wcag1.jpeg)
+![wcag page 2](/assets/images/readmeimg/wcag2.jpeg)
+![wcag page 3](/assets/images/readmeimg/wcag3.jpeg)
+![wcag page 4](/assets/images/readmeimg/wcag4.jpeg)
+![wcag page 5](/assets/images/readmeimg/wcag5.jpeg)
+
 ### 29 sept - weer aan de slag
 
 excuseer mijn taalgebruik, maar holy fuck wat ben ik blij dat ik beter ben. Na echt goed uit te zieken ben ik vandaag weer aan de slag gegaan.
-Terwijl ik ziek was, heb ik hard nagedacht over wat ik nou echt wou laten zien in mijn garden. Mijn originele idee was leuk maar liet niet echt mijn thema zien, dus heb ik besloten om from scratch te beginnen en ben gaan schetsen.
-
-[NOTE TO SELF: SCHETS FOTOS INVOEGEN!!!!]
+Terwijl ik ziek was, heb ik hard nagedacht over wat ik nou echt wou laten zien in mijn garden. Mijn originele idee was leuk maar liet niet echt mijn thema zien, dus heb ik besloten om from scratch te beginnen en ben gaan schetsen (zie schetsen bovenaan dit bestand).
 
 Op basis van mijn schetsen ben ik gaan denken hoe ik dit ga vormgeven in code en welke elementen ik ga gebruiken.
 Toen ik langer dan 5 minuten naar een scherm kon kijken, ben ik begonnen met coderen in VSCode zodat ik hier mijn progress niet kwijt zou raken als ik besloot toch terug te gaan naar mijn oude idee.
@@ -225,7 +245,8 @@ De deep dives en lessen die ik heb gemist ga ik ook zeker nog inhalen, want ik w
 
 Ik heb van 4:30 tot 6:20 aan mijn code gezeten om iets te kunnen laten zien. (hevige shoutout naar MDN en een van mn online vrienden voor de hulp als ik iets niet begreep.) Ik ben er nog niet tevreden mee, maar heb nog niet de energie om in-depth te werken.
 
-[FOTOS RETROSPECTIVE INVOEGEN]
+![piek en dal](/assets/images/readmeimg/retro1a.jpeg)
+![tekening](/assets/images/readmeimg/retro1b.jpeg)
 
 ### 9 sept - online les (OV staking)
 
@@ -251,8 +272,9 @@ extra vragen van Katey:
 
 Ga je echt de games op de sites zetten of alleen de vibes nabootsen?
 -mijn plan is om de vibes na te bootsen maar op sommige plekken ook kleine elementen van de games te gebruiken, waardoor dit echt een interactieve ervaring wordt.
-
-[NOTE TO SELF: CRAZY 8 EN PRESENTATIE INVOEGEN]
+![crazy 8 1](/assets/images/readmeimg/crazy8a.jpeg)
+![crazy 8 2](/assets/images/readmeimg/crazy8b.jpeg)
+[NOTE TO SELF: PRESENTATIE INVOEGEN]
 
 ### 8 sept - thuis aan de slag
 
@@ -358,6 +380,9 @@ ik koos om met de country foto te werken en met de volgende key words:
 ->wolken
 
 ik heb de 3 woorden: honey, happy en lief gekozen om een font mee te zoeken. hierbij ben ik terecht gekomen bij het font 'good karma'
+
+![notes deepdive](/assets/images/readmeimg/typografie1.jpeg)
+![notes deepdive](/assets/images/readmeimg/typografie2.jpeg)
 
 DEEP DIVE 2 - SCHETSEN
 

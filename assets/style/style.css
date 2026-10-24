@@ -53,7 +53,7 @@ body {
   grid-template-columns: 1fr auto 1fr;
   grid-template-areas:
     ". header ."
-    ". main ."
+    ". main   ."
     ". footer .";
 
   margin: 0;
@@ -380,8 +380,8 @@ article dd {
 }
 
 progress {
-  width: min(100%, 18rem);
-  height: 1rem;
+  inline-size: min(100%, 18rem);
+  block-size: 1rem;
 
   margin-inline-end: 0.5rem;
 
