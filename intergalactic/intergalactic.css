@@ -134,7 +134,7 @@ h4 {
 }
 
 .hudson {
-  grid-area: 6 / 5 / 8 / 8;
+  grid-area: 6 /-9 / 8 / -1;
   text-align: left;
 }
 .fullsteam {
@@ -159,6 +159,10 @@ strong {
   font-variation-settings:
     "wght" 200,
     "SRFS" 0;
+}
+strong:hover {
+  transition: all 500ms;
+  font-size: 3em;
 }
 .mario {
   display: none;
