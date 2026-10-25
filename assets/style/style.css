@@ -108,7 +108,7 @@ h3 {
 }
 
 p {
-  font-family: Tahoma, serif, system-ui;
+  font-family: "Press Start 2P", serif, system-ui;
 }
 
 p,
@@ -118,6 +118,13 @@ a {
   font-size: clamp(0.65rem, 3vw, 0.8rem);
 }
 
+.hoofdletters {
+  text-transform: uppercase;
+}
+
+#playsite {
+  text-transform: uppercase;
+}
 /* ==================================================
      * MARK: MAIN
    ================================================== */
@@ -141,7 +148,7 @@ main {
    ================================================== */
 
 header {
-  padding: 4em;
+  padding: 0.5em;
   grid-area: header;
   text-align: center;
 }
@@ -277,6 +284,10 @@ ul li {
 
 #cookieModal {
   background-color: var(--color-cookie);
+  font-family: Tahoma, serif, system-ui;
+}
+form > p {
+  font-family: Tahoma, serif, system-ui;
 }
 
 button {

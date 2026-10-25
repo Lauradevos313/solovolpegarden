@@ -6,6 +6,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 24/25 okt - last details voor de deadline!
 
+dingen die ik heb aangepast:
+
+- font van de HCN aangepast naar Tahoma, zodat de vormgeving aansluit bij het feit dat dit over privacy info gaat
+- wording van de HCN aangepast zodat het niet zo vaag is.
+- caps locked tekst UIT de HTML gehaald en via CSS in caps gezet.
+- eindelijk mijn schetsen en retrospectives in mijn learning log gezet.
+- bezig geweest met mijn lyric experiment.
+
+ALS IK MEER TIJD HAD GEHAD:
+
 ### al mijn schetsen (ik was ze steeds vergeten in te voegen...)
 
 ![snelle schets 1](assets/images/readmeimg/snelschets1.jpeg)
