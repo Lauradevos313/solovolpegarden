@@ -141,6 +141,26 @@ h4 {
   grid-area: 8 /-13 / 10 / -6;
   text-align: left;
 }
+#sectick {
+  grid-area: 10 / 1 / 11 / 13;
+  font-style: italic;
+  font-variation-settings:
+    "wght" 150,
+    "SRFS" 80;
+  text-decoration: line-through dashed;
+}
+.jazz {
+  grid-area: 11 / -1 / 12/ -9;
+}
+.jazz > span {
+  background: linear-gradient(to right, #332117, #f4c290);
+  background-clip: text;
+  color: transparent;
+  font-variation-settings:
+    "wght" 170,
+    "SRFS" 60;
+}
+
 .fullsteam {
   display: none;
 }
