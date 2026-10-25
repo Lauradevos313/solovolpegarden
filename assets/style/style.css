@@ -45,7 +45,7 @@ om duidelijk te maken wat het is/doet en zodat ik het ook zelf nog kan terugvind
 }
 
 html {
-  background: var(--color-background);
+  background: var(--color-backgrou nd);
 }
 
 body {
@@ -108,7 +108,7 @@ h3 {
 }
 
 p {
-  font-family: "Press Start 2P", serif, system-ui;
+  font-family: Tahoma, serif, system-ui;
 }
 
 p,
