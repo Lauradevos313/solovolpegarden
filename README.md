@@ -284,7 +284,14 @@ Ga je echt de games op de sites zetten of alleen de vibes nabootsen?
 -mijn plan is om de vibes na te bootsen maar op sommige plekken ook kleine elementen van de games te gebruiken, waardoor dit echt een interactieve ervaring wordt.
 ![crazy 8 1](/assets/images/readmeimg/crazy8a.jpeg)
 ![crazy 8 2](/assets/images/readmeimg/crazy8b.jpeg)
-[NOTE TO SELF: PRESENTATIE INVOEGEN]
+
+PRESENTATIE:
+![slide 1](/assets/images/readmeimg/pres1.png)
+![slide 2](/assets/images/readmeimg/pres2.png)
+![slide 3](/assets/images/readmeimg/pres3.png)
+![slide 4](/assets/images/readmeimg/pres4.png)
+![slide 5](/assets/images/readmeimg/pres5.png)
+![slide 6](/assets/images/readmeimg/pres6.png)
 
 ### 8 sept - thuis aan de slag
 
