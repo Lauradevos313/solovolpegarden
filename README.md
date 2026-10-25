@@ -16,6 +16,11 @@ dingen die ik heb aangepast:
 
 ALS IK MEER TIJD HAD GEHAD:
 
+- de contact knop ook onklikbaar maken bij rejection. Het is een gimmick die niet echt nut heeft op deze site (Het is meer iets wat ik wou uitproberen en dit was in mijn hoofd een goede plek om het te doen.)
+- Lyrics volledig uitwerken. Ik heb het experiment heel erg abandoned omdat ik zo gestressed was over mijn site. Ik heb hier best spijt van en had ook zeker dit beter willen uitwerken
+- de logical properties goed noteren. Dit kwam in mijn feedback naarboven, ik heb een mix van de properties i.p.v. met 1tje aan de slag te gaan. De volgende keer ga ik ook goed opletten dat ik ze niet mix!
+- Screenreader tweaks. In mijn cookie dialog is de accepteer knop gelijk gefocussed. Als ik nog tijd over had, wou ik ook zeker kijken naar hoe ik de tekst kon laten focussen i.p.v. de buttons.
+
 ### al mijn schetsen (ik was ze steeds vergeten in te voegen...)
 
 ![snelle schets 1](assets/images/readmeimg/snelschets1.jpeg)
