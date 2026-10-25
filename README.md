@@ -12,7 +12,7 @@ dingen die ik heb aangepast:
 - wording van de HCN aangepast zodat het niet zo vaag is.
 - caps locked tekst UIT de HTML gehaald en via CSS in caps gezet.
 - eindelijk mijn schetsen en retrospectives in mijn learning log gezet.
-- bezig geweest met mijn lyric experiment.
+- bezig geweest met mijn lyric experiment. (zeker nog niet af...)
 
 ALS IK MEER TIJD HAD GEHAD:
 
