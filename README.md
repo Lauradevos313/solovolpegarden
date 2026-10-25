@@ -18,7 +18,7 @@ dingen die ik heb aangepast:
 ALS IK MEER TIJD HAD GEHAD:
 
 - de contact knop ook onklikbaar maken bij rejection. Het is een gimmick die niet echt nut heeft op deze site (Het is meer iets wat ik wou uitproberen en dit was in mijn hoofd een goede plek om het te doen.)
-- Lyrics volledig uitwerken. Ik heb het experiment heel erg abandoned omdat ik zo gestressed was over mijn site. Ik heb hier best spijt van en had ook zeker dit beter willen uitwerken
+- Lyrics volledig uitwerken. Ik heb het experiment heel erg abandoned omdat ik zo gestressed was over mijn site. Ik heb hier best spijt van en had ook zeker dit beter willen uitwerken (bijvoorbeeld: de OOH-CHILD overlapt met de zin erboven op mobiel. dit had ik nog willen aanpassen.)
 - de logical properties goed noteren. Dit kwam in mijn feedback naarboven, ik heb een mix van de properties i.p.v. met 1tje aan de slag te gaan. De volgende keer ga ik ook goed opletten dat ik ze niet mix!
 - Screenreader tweaks. In mijn cookie dialog is de accepteer knop gelijk gefocussed. Als ik nog tijd over had, wou ik ook zeker kijken naar hoe ik de tekst kon laten focussen i.p.v. de buttons.
 - Meer schetsen en opschrijven!!! dit waren vorig jaar mijn grootste valkuilen en ben nogsteeds best bagger hierin.... Ik wil hier zo veel beter in worden en heb ook spijt dat ik hier niet meer moeite voor heb gedaan.
