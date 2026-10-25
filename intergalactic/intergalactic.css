@@ -7,6 +7,12 @@
 
 /* Bron voor hulp/inspo voor de ticker tape animatie: https://www.ryangittings.co.uk/blog/pure-css-ticker/ */
 
+header {
+  font-size: xx-large;
+  color: aquamarine;
+  opacity: 0.5;
+  text-decoration: line-through;
+}
 body {
   background-color: #587668;
   font-family: "Seraphs";
@@ -24,7 +30,7 @@ main {
     "SRFS" 5;
   font-size: 2em;
   line-height: 3rem;
-  column-width: auto;
+  column-width: 30ch;
 }
 
 .ticker {
@@ -86,6 +92,7 @@ main {
 
 .v1 {
   grid-area: 1 / 1 / 2 / 13;
+  text-align: right;
 }
 
 .bigleft {
@@ -97,7 +104,7 @@ main {
 }
 
 .bigright {
-  grid-area: 3/ -11 / 4 / -12;
+  grid-area: 3/ -8 / 4 / -5;
   text-align: right;
   text-transform: uppercase;
   color: #ffffff;
@@ -121,12 +128,14 @@ h4 {
     "wght" 200,
     "SRFS" 0;
   font-style: italic;
-  font-size: 15rem;
-  line-height: 10rem;
+  font-size: clamp(5vw, 15vw, 20vw);
+  line-height: clamp(3vw, 18vw, 15rem);
+  padding-top: 5rem;
 }
 
 .hudson {
   grid-area: 6 / 5 / 8 / 8;
+  text-align: left;
 }
 .fullsteam {
   display: none;
@@ -146,7 +155,7 @@ em {
 }
 
 strong {
-  color: aqua;
+  color: rgb(91, 0, 5);
   font-variation-settings:
     "wght" 200,
     "SRFS" 0;

@@ -13,6 +13,7 @@ dingen die ik heb aangepast:
 - caps locked tekst UIT de HTML gehaald en via CSS in caps gezet.
 - eindelijk mijn schetsen en retrospectives in mijn learning log gezet.
 - bezig geweest met mijn lyric experiment. (zeker nog niet af...)
+  ![nieuwe versie lyrics](/assets/images/readmeimg/lyrics4.png)
 
 ALS IK MEER TIJD HAD GEHAD:
 
@@ -20,6 +21,7 @@ ALS IK MEER TIJD HAD GEHAD:
 - Lyrics volledig uitwerken. Ik heb het experiment heel erg abandoned omdat ik zo gestressed was over mijn site. Ik heb hier best spijt van en had ook zeker dit beter willen uitwerken
 - de logical properties goed noteren. Dit kwam in mijn feedback naarboven, ik heb een mix van de properties i.p.v. met 1tje aan de slag te gaan. De volgende keer ga ik ook goed opletten dat ik ze niet mix!
 - Screenreader tweaks. In mijn cookie dialog is de accepteer knop gelijk gefocussed. Als ik nog tijd over had, wou ik ook zeker kijken naar hoe ik de tekst kon laten focussen i.p.v. de buttons.
+- Meer schetsen en opschrijven!!! dit waren vorig jaar mijn grootste valkuilen en ben nogsteeds best bagger hierin.... Ik wil hier zo veel beter in worden en heb ook spijt dat ik hier niet meer moeite voor heb gedaan.
 
 ### al mijn schetsen (ik was ze steeds vergeten in te voegen...)
 
@@ -68,7 +70,7 @@ feedback van Poema -
 ### 9 okt - Laatste dag voor herfstreces
 
 Ik ben duidelijk toe aan vakantie, ik had de lyrics donderdag uitgewerkt op mijn desktop maar was helemaal vergeten het weer naar mn laptop te sturen... Dus de feedback vandaag ging over waar ik woensdag mee geeindigd was ipv wat ik daadwerlijk af had donderdag...
-[PC VERSIE]
+
 Feeback over songtekst opdracht:
 
 - intro lijkt nu brick wall, is dat de bedoeling? (goed idee: ticker tape! gelijk mee begonnen!!!)
