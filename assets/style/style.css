@@ -288,10 +288,12 @@ ul li {
 }
 form > p {
   font-family: Tahoma, serif, system-ui;
+  font-size: 1em;
 }
 
 button {
   background-color: var(--color-cookie);
+  font-size: 0.7em;
 }
 
 /* ==================================================

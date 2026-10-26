@@ -4,6 +4,32 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 okt - expo en alles doornemen
+
+Samen met Shakila, Poema en Amy hebben we elkaars sites en learning logs doorgenomen om te kijken wat er goed is en wat er mogelijk nog mist.
+
+Amy en ik hebben elkaar's site bekeken:
+mijn feeback over amy's site:
+![feedback laura over amy](/assets/images/readmeimg/webbyeindamy.jpeg)
+
+feedback amy over mij:
+![hoe webby is jouw eindproduct?](/assets/images/readmeimg/webbyeindlau.jpeg)
+
+feeback over learning log:
+![hoe log is jouw learning log?](/assets/images/readmeimg/logislog.jpeg)
+
+dingen die ik nog heb aangepast aan de hand van de laatste feedback:
+
+- font van cookie button en in dialog iets groter gemaakt voor leesbaarheid.
+- link naar github privacybeleid toegevoegd
+- zo veel mogelijk missende dingen toegevoegd aan learning log.
+- ik heb nog een keer mijn html gevalideerd:
+  ![validation index](/assets/images/readmeimg/indexvalidation.png)
+  ![validation profile](/assets/images/readmeimg/aboutvalidation.png)
+  ![validation inventory](/assets/images/readmeimg/inventoryvalidation.png)
+  ![validation quest](/assets/images/readmeimg/questvalidation.png)
+  ![validation links](/assets/images/readmeimg/linksvalidation.png)
+
 ### 24/25 okt - last details voor de deadline!
 
 dingen die ik heb aangepast:
@@ -291,6 +317,9 @@ extra vragen van Katey:
 
 Ga je echt de games op de sites zetten of alleen de vibes nabootsen?
 -mijn plan is om de vibes na te bootsen maar op sommige plekken ook kleine elementen van de games te gebruiken, waardoor dit echt een interactieve ervaring wordt.
+
+daarna zijn we in groepjes visual research gaan doen en op basis daarvan crazy 8's gamaakt
+![overview van mijn visual research](/assets/images/readmeimg/miro.png)
 ![crazy 8 1](/assets/images/readmeimg/crazy8a.jpeg)
 ![crazy 8 2](/assets/images/readmeimg/crazy8b.jpeg)
 
