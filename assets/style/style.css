@@ -58,7 +58,7 @@ body {
 
   margin: 0;
 
-  min-height: 100svh;
+  min-block-size: 100svh;
 
   background: var(--color-background);
   color: var(--color-text);
@@ -132,10 +132,10 @@ a {
 main {
   grid-area: main;
 
-  width: min(100% - 2rem, 60ch);
+  inline-size: min(100% - 2rem, 60ch);
   justify-self: center;
 
-  min-height: 60svh;
+  min-block-size: 60svh;
 
   margin-inline: auto;
   padding-block: 2rem;
@@ -184,7 +184,7 @@ nav li + li {
 a {
   display: block;
 
-  width: 100%;
+  inline-size: 100%;
 
   padding: 0.75rem 0;
 
@@ -204,7 +204,7 @@ a {
 a::before {
   display: inline-block;
 
-  width: 1.5em;
+  inline-size: 1.5em;
 }
 
 a:hover::before,
@@ -236,7 +236,7 @@ summary:focus-visible {
    ================================================== */
 
 article {
-  max-width: 55ch;
+  max-inline-size: 55ch;
 }
 
 article p {
@@ -248,7 +248,7 @@ article p {
 }
 
 button {
-  width: fit-content;
+  inline-size: fit-content;
 
   margin-block-end: 2rem;
 
@@ -326,15 +326,15 @@ main > section {
 }
 
 main > section figure {
-  width: 100%;
+  inline-size: 100%;
   margin: 0;
 }
 
 main > section figure img {
   display: block;
 
-  width: 100%;
-  height: auto;
+  inline-size: 100%;
+  block-size: auto;
 
   aspect-ratio: 1;
   object-fit: contain;
@@ -407,8 +407,8 @@ details p {
   font-family: "Silkscreen", system-ui;
 }
 #childhood {
-  width: 100%;
-  height: auto;
+  inline-size: 100%;
+  block-size: auto;
   padding-top: 1vw;
   aspect-ratio: 1;
   object-fit: contain;
@@ -419,21 +419,21 @@ details p {
    ================================================== */
 /* nieuwe look voor de inventory pagina, op basis van deze site:https://chrome.dev/carousel/horizontal/tabs/ */
 .inventory-page {
-  width: min(100% - 2rem, 70rem);
+  inline-size: min(100% - 2rem, 70rem);
 }
 
 .inventory-content {
   display: grid;
   gap: 2rem;
-  min-width: 0;
+  min-inline-size: 0;
 }
 
-/* ik heb max-width: none gedaan zodat de panelen niet te smal worden! */
+/* ik heb max-inline-size: none gedaan zodat de panelen niet te smal worden! */
 .inventory-panel {
-  max-width: none;
+  max-inline-size: none;
 
-  min-width: 0;
-  min-height: 30rem;
+  min-inline-size: 0;
+  min-block-size: 30rem;
 
   padding: clamp(1.5rem, 5vw, 3rem);
 
@@ -445,7 +445,7 @@ details p {
 }
 
 .inventory-panel p {
-  max-width: 55ch;
+  max-inline-size: 55ch;
   overflow-wrap: break-word;
 
   color: var(--color-content);
@@ -551,7 +551,7 @@ details p {
   }
 
   main > section figure {
-    width: 6rem;
+    inline-size: 6rem;
   }
 }
 
