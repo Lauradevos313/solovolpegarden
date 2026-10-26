@@ -53,10 +53,16 @@ ALS IK MEER TIJD HAD GEHAD:
 
 ### al mijn schetsen (ik was ze steeds vergeten in te voegen...)
 
+een eerste idee van de homepage, een 'level select' die als een soort carousel werkt. ernaast is een schets van een 'about me' page, die eruit ziet als een stats page in een game.
 ![snelle schets 1](assets/images/readmeimg/snelschets1.jpeg)
+
+een schets van de uiteindelijke versie van mijn homepage, gebaseerd op oude video game menus.
 ![schetsen](/assets/images/readmeimg/schets1.jpeg)
-![schetsen](/assets/images/readmeimg/schetsen2.jpeg)
+
+een schets van mijn inventory panel, gebaseerd op inventory/menu pages in oude games (en ook in recente games zie je dit nog best vaak terug (bijv. silent hill f))
 ![schetsen](/assets/images/readmeimg/schets3.jpeg)
+
+een meer uitgewerkte versie van mijn about me page, aan deze ben ik best loyaal gebleven qua uitwerking. deze is gemaakt nadat ik nog meer wou toevoegen aan mijn al bestaande about me page. Het belangrijkste van deze schets was hoe ik een stuk tekst over mijzelf wou vormgeven.
 ![schetsen](/assets/images/readmeimg/schetsen4.jpeg)
 
 ### 23 okt - feedback en retrospective
