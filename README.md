@@ -89,10 +89,12 @@ dingen die ik nog moet/wil fixen:
 
 - schetsen toevoegen in de readme.... ik blijf het vergeten...
 
-### 21 okt - bi-weekly geek
+### 21 okt - bi-weekly geek en peerfeedback
 
-![geek blad 1](/assets/images/readmeimg/peerform1.jpeg)
-![geek blad 2](/assets/images/readmeimg/peerform2.jpeg)
+![geek](/assets/images/readmeimg/geek3.jpeg)
+
+![feedback blad 1](/assets/images/readmeimg/peerform1.jpeg)
+![feeback blad 2](/assets/images/readmeimg/peerform2.jpeg)
 
 ### 19 okt - Maandag
 
