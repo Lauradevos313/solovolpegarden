@@ -61,6 +61,7 @@ ALS IK MEER TIJD HAD GEHAD:
 
 ### 23 okt - feedback en retrospective
 
+![blad1](/assets/images/readmeimg/retro3c.jpeg)
 ![piek en dal](/assets/images/readmeimg/retro3a.jpeg)
 ![tekening](/assets/images/readmeimg/retro3b.jpeg)
 
@@ -200,6 +201,7 @@ notities feedback:
 - elements uit script halen en andere namen geven (a en i)
 - apart JS bestand aanmaken, is cleaner.
 
+![blad1](/assets/images/readmeimg/retro2c.jpeg)
 ![piek en dal](/assets/images/readmeimg/retro2a.jpeg)
 ![tekening](/assets/images/readmeimg/retro2b.jpeg)
 
@@ -290,6 +292,7 @@ De deep dives en lessen die ik heb gemist ga ik ook zeker nog inhalen, want ik w
 
 Ik heb van 4:30 tot 6:20 aan mijn code gezeten om iets te kunnen laten zien. (hevige shoutout naar MDN en een van mn online vrienden voor de hulp als ik iets niet begreep.) Ik ben er nog niet tevreden mee, maar heb nog niet de energie om in-depth te werken.
 
+![blad1](/assets/images/readmeimg/retro1c.jpeg)
 ![piek en dal](/assets/images/readmeimg/retro1a.jpeg)
 ![tekening](/assets/images/readmeimg/retro1b.jpeg)
 
@@ -342,6 +345,9 @@ ik heb hierdoor mijn presentatie heel minimalistisch genhouden en helaas niet ku
 Ik heb de deep dive voor light & dark mode doorgenomen
 
 ### 7 sept - Checkout
+
+samen met Susanne en Katey hebben wij gekeken naar welke gardens die we hebben bekeken het meest en minst 'webby' zijn.
+![meest v minst webby blad](/assets/images/readmeimg/meestvminst.jpeg)
 
 VRAAG: Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 ANTWOORD: Een digital garden is een soort 'speeltuin' site, waar je je gedachtes en ideeen kan posten en constant kan blijven aanvullen of aanpassen. Je kan het vormgeven hoe je het wilt en plaatsen wat je maar wilt. Dit is anders dan een reguliere website want het hoeft niet te voldoen aan de 'normen' van reguliere sites. ook de opmaak en opbouw van een digital garden verschilt heel erg van een reguliere website.
