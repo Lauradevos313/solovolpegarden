@@ -116,7 +116,7 @@ Hoeveel gekkigheid moet er in je werk zitten?
 
 ### 5 okt - Start sprint 3
 
-[TEKST SCHRIJVEN OVER VANDAAG]
+Ik heb gekozen om te werken met 'intergalactic' van de Beastie Boys
 ![Lyric schetsen](/assets/images/readmeimg/lyrics.png)
 
 CHECKOUT:
