@@ -66,9 +66,6 @@ body {
   font-family: "Press Start 2P", monospace;
 
   line-height: 1.6;
-
-  /* grappig testje om te zien hoe dit als cursor eruit zou zien, maar het clashte iets te veel */
-  /* cursor: url("/assets/images/siteimages/hatlayton.png"), auto; */
 }
 
 /* De CRT lines die over de pagina heen gaan.

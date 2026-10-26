@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### bronnenlijst
+
+deze bronnen staan ook in mijn code, maar ik zet ze ook hier nog even neer!
+
+![ticker tape in lyrics](https://www.ryangittings.co.uk/blog/pure-css-ticker/)
+![Carousel inventory](https://chrome.dev/carousel/horizontal/tabs/)
+![javascript play randomiser](https://stackoverflow.com/questions/37751759/generating-a-random-link-through-javascript-html)
+
 ### 26 okt - expo en alles doornemen
 
 Samen met Shakila, Poema en Amy hebben we elkaars sites en learning logs doorgenomen om te kijken wat er goed is en wat er mogelijk nog mist.
