@@ -26,7 +26,7 @@ maar, een moeilijk level betekent niet gelijk game over! Als je doorzet en niet 
 
 ### 27 okt - deadline day
 
-om nog ff alles te dubbel checken, heb ik de feedback van het einde van de 3 sprints op papier gezet en afgestreept
+om nog even alles te dubbel checken, heb ik de feedback van het einde van de 3 sprints op papier gezet en afgestreept
 (note: de feedback van sprint 1 staat in het roze op blad 2. had een fout gemaakt met opschrijven.)
 ![blad 1](/assets/images/readmeimg/3wfb1.jpeg)
 ![blad 2](/assets/images/readmeimg/3wfb2.jpeg)
