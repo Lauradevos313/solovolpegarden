@@ -360,7 +360,10 @@ Ga je echt de games op de sites zetten of alleen de vibes nabootsen?
 -mijn plan is om de vibes na te bootsen maar op sommige plekken ook kleine elementen van de games te gebruiken, waardoor dit echt een interactieve ervaring wordt.
 
 daarna zijn we in groepjes visual research gaan doen en op basis daarvan crazy 8's gamaakt
+
+[link naar de miro](https://miro.com/app/board/uXjVHpsXBFw=/?share_link_id=493970669661)
 ![overview van mijn visual research](/assets/images/readmeimg/miro.png)
+
 ![crazy 8 1](/assets/images/readmeimg/crazy8a.jpeg)
 ![crazy 8 2](/assets/images/readmeimg/crazy8b.jpeg)
 
