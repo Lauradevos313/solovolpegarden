@@ -73,6 +73,9 @@ een schets van mijn inventory panel, gebaseerd op inventory/menu pages in oude g
 een meer uitgewerkte versie van mijn about me page, aan deze ben ik best loyaal gebleven qua uitwerking. deze is gemaakt nadat ik nog meer wou toevoegen aan mijn al bestaande about me page. Het belangrijkste van deze schets was hoe ik een stuk tekst over mijzelf wou vormgeven.
 ![schetsen](/assets/images/readmeimg/schetsen4.jpeg)
 
+Zoals je kan zien, heb ik deze schetsen nooit afgemaakt. Ik denk dat ik ermee was begonnen op school en het helemaal vergeten was toen ik thuis aankwam... maar dit blad had eigenlijk een soort walkthrough van mijn site moeten zijn. Helaas ben ik niet verder dan mijn about me pagina gekomen...
+![schetsen die ik nooit heb afgemaakt...](/assets/images/readmeimg/schetsnietaf.jpeg)
+
 ### 23 okt - feedback en retrospective
 
 ![blad1](/assets/images/readmeimg/retro3c.jpeg)
@@ -160,6 +163,9 @@ Hoeveel gekkigheid moet er in je werk zitten?
   ![eerste versie](/assets/images/readmeimg/lyrics2.png)
 
 ### 5 okt - Start sprint 3
+
+Met mijn groepje hebben wij een artikel gelezen en samengevat over de Modular scale
+![notities modular scale artikel](/assets/images/readmeimg/modularnotes.jpeg)
 
 Ik heb gekozen om te werken met 'intergalactic' van de Beastie Boys
 ![Lyric schetsen](/assets/images/readmeimg/lyrics.png)
@@ -362,7 +368,21 @@ Ik heb de deep dive voor light & dark mode doorgenomen
 
 ### 7 sept - Checkout
 
-samen met Susanne en Katey hebben wij gekeken naar welke gardens die we hebben bekeken het meest en minst 'webby' zijn.
+Met een groepje hebben wij een artikel gelezen 'A brief history & ethos of the digital garden'.
+hieronder staan mijn notities en een samenvatting in 6 zinnen die samen met het groepje is gemaakt
+![notities](/assets/images/readmeimg/note1.jpeg)
+![notities](/assets/images/readmeimg/note2.jpeg)
+![notities](/assets/images/readmeimg/note3.jpeg)
+![notities](/assets/images/readmeimg/note4.jpeg)
+![samenvatting in 6 zinnen](/assets/images/readmeimg/note5.jpeg)
+
+De sites die ik heb bekeken waren Melonland en Rocktype.
+Mijn vel was alleen best beschadigd geraakt onderweg naar huis...
+![beschadigd analyse vel](/assets/images/readmeimg/dmganalyse.jpeg)
+dus heb ik hem digitaal nog een keer uitgewerkt:
+![digitaal analyse vel](/assets/images/readmeimg/analysevel.png)
+
+samen met Susanne en Katey hebben wij gekeken naar welke gardens die we hebben bekeken het meest en minst 'webby' zijn van de sites die we hebben geanalyseerd
 ![meest v minst webby blad](/assets/images/readmeimg/meestvminst.jpeg)
 
 VRAAG: Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
