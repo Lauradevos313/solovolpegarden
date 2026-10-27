@@ -87,6 +87,12 @@ dingen die ik heb aangepast:
 een eerste idee van de homepage, een 'level select' die als een soort carousel werkt. ernaast is een schets van een 'about me' page, die eruit ziet als een stats page in een game.
 ![snelle schets 1](assets/images/readmeimg/snelschets1.jpeg)
 
+Nog 2 versies van de homepage, deze meer als character select schermen.
+![snelle schets 2](/assets/images/readmeimg/schetsj.jpeg)
+
+een uitgebreidere versie van de level select schets.
+![duidelijkere schets](/assets/images/readmeimg/schetsu.jpeg)
+
 een schets van de uiteindelijke versie van mijn homepage, gebaseerd op oude video game menus.
 ![schetsen](/assets/images/readmeimg/schets1.jpeg)
 
@@ -523,6 +529,8 @@ slechte schets:
 -> geen annotaties
 -> onduidelijk wat het idee is
 -> formaat wisselt door heel schets heen.
+
+![schetsen in deepdive](/assets/images/readmeimg/schetsdeep.jpeg)
 
 ### 2 sept - [Workshop]
 
