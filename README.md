@@ -94,6 +94,9 @@ Zoals je kan zien, heb ik deze schetsen nooit afgemaakt. Ik denk dat ik ermee wa
 
 ### 23 okt - feedback en retrospective
 
+notes feedback:
+![feedback notes](/assets/images/readmeimg/s3fbnotes.jpeg)
+
 ![blad1](/assets/images/readmeimg/retro3c.jpeg)
 ![piek en dal](/assets/images/readmeimg/retro3a.jpeg)
 ![tekening](/assets/images/readmeimg/retro3b.jpeg)
