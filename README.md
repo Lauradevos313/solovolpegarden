@@ -12,6 +12,18 @@ deze bronnen staan ook in mijn code, maar ik zet ze ook hier nog even neer!
 [Carousel inventory](https://chrome.dev/carousel/horizontal/tabs/)
 [javascript play randomiser](https://stackoverflow.com/questions/37751759/generating-a-random-link-through-javascript-html)
 
+### Korte reflectie
+
+Ik zal heel eerlijk zijn. Ik baal van hoe dit blok is gegaan, dit vooral omdat ik een paar weken ziek ben geweest. Ik had zo veel ideeën maar heb zo veel steken laten vallen omdat ik aan het worstelen was met de tijd en met mijzelf.
+
+Ik ben uiteindelijk wel blij met het eindproduct wat ik heb kunnen maken. mijn idee heb ik uit kunnen werken maar het mist zeker nog een paar details voordat ik kan zeggen dat ik er trots op ben. Als ik de kans had, had ik alleen maar de 2 weken die ik ziek was anders gedaan. Ik denk dat ik kan meer had kunnen laten zien.
+
+Ik heb ook gemerkt dat ik toch best wel visueel ingesteld ben wat notities en process maken betreft. Ik heb best wel moeite gehad met het opschrijven van dingen in mijn learning log. In de vorige blokken toen we met miro/figma werkte ging het mij allemaal iets soepeler af (maar nog steeds niet goed... ik ben echt bagger in het opschrijven van mijn gedachte, maar ik word er steeds beter in!!! )
+
+Ik ben trots op mijzelf met hoe ik heb doorgezet toen het allemaal niet meezat, toen ik het zelf ook niet helemaal meer zag zitten en eigenlijk wou opgeven. Ik heb mijzelf een schop gegeven en ben toch hard aan de slag gegaan om iets neer te zetten.
+
+maar, een moeilijk level betekent niet gelijk game over! Als je doorzet en niet opgeeft, kom je vanzelf bij de finish!
+
 ### 26 okt - expo en alles doornemen
 
 De feedback die ik heb gekregen tijdens de expo, ik was er positief verrast door!
@@ -41,6 +53,15 @@ dingen die ik nog heb aangepast aan de hand van de laatste feedback:
   ![validation quest](/assets/images/readmeimg/questvalidation.png)
   ![validation links](/assets/images/readmeimg/linksvalidation.png)
 
+ALS IK MEER TIJD HAD GEHAD:
+
+- de contact knop ook onklikbaar maken bij rejection. Het is een gimmick die niet echt nut heeft op deze site (Het is meer iets wat ik wou uitproberen en dit was in mijn hoofd een goede plek om het te doen.)
+- Lyrics volledig uitwerken. Ik heb het experiment heel erg abandoned omdat ik zo gestressed was over mijn site. Ik heb hier best spijt van en had ook zeker dit beter willen uitwerken (bijvoorbeeld: de OOH-CHILD overlapt met de zin erboven op mobiel. dit had ik nog willen aanpassen.)
+- Screenreader tweaks. In mijn cookie dialog is de accepteer knop gelijk gefocussed. Als ik nog tijd over had, wou ik ook zeker kijken naar hoe ik de tekst kon laten focussen i.p.v. de buttons.
+- Meer schetsen en opschrijven!!! dit waren vorig jaar mijn grootste valkuilen en ben nogsteeds best bagger hierin.... Ik wil hier zo veel beter in worden en heb ook spijt dat ik hier niet meer moeite voor heb gedaan.
+- Het inventory scherm goed maken voor mobiel, ik heb een keuze gemaakt om iets te gebruiken dat alleen op pc chrome werkt.. niet slim... ik had dit zeker nog willen aanpassen zodat het goed werkt op mobiel.
+- ik had nog iets van een foto gallerij willen toevoegen, met fotos van verschillende oude games en fotos uit mijn jeugd.
+
 ### 24/25 okt - last details voor de deadline!
 
 dingen die ik heb aangepast:
@@ -53,14 +74,6 @@ dingen die ik heb aangepast:
 - bezig geweest met mijn lyric experiment. (zeker nog niet af...)
   ![nieuwe versie lyrics](/assets/images/readmeimg/lyrics4.png)
 - zelfgetekende favicon toegevoegd.
-
-ALS IK MEER TIJD HAD GEHAD:
-
-- de contact knop ook onklikbaar maken bij rejection. Het is een gimmick die niet echt nut heeft op deze site (Het is meer iets wat ik wou uitproberen en dit was in mijn hoofd een goede plek om het te doen.)
-- Lyrics volledig uitwerken. Ik heb het experiment heel erg abandoned omdat ik zo gestressed was over mijn site. Ik heb hier best spijt van en had ook zeker dit beter willen uitwerken (bijvoorbeeld: de OOH-CHILD overlapt met de zin erboven op mobiel. dit had ik nog willen aanpassen.)
-- Screenreader tweaks. In mijn cookie dialog is de accepteer knop gelijk gefocussed. Als ik nog tijd over had, wou ik ook zeker kijken naar hoe ik de tekst kon laten focussen i.p.v. de buttons.
-- Meer schetsen en opschrijven!!! dit waren vorig jaar mijn grootste valkuilen en ben nogsteeds best bagger hierin.... Ik wil hier zo veel beter in worden en heb ook spijt dat ik hier niet meer moeite voor heb gedaan.
-- Het inventory scherm goed maken voor mobiel, ik heb een keuze gemaakt om iets te gebruiken dat alleen op pc chrome werkt.. niet slim... ik had dit zeker nog willen aanpassen zodat het goed werkt op mobiel.
 
 ### al mijn schetsen (ik was ze steeds vergeten in te voegen...)
 
