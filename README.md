@@ -24,6 +24,13 @@ Ik ben trots op mijzelf met hoe ik heb doorgezet toen het allemaal niet meezat, 
 
 maar, een moeilijk level betekent niet gelijk game over! Als je doorzet en niet opgeeft, kom je vanzelf bij de finish!
 
+### 27 okt - deadline day
+
+om nog ff alles te dubbel checken, heb ik de feedback van het einde van de 3 sprints op papier gezet en afgestreept
+(note: de feedback van sprint 1 staat in het roze op blad 2. had een fout gemaakt met opschrijven.)
+![blad 1](/assets/images/readmeimg/3wfb1.jpeg)
+![blad 2](/assets/images/readmeimg/3wfb2.jpeg)
+
 ### 26 okt - expo en alles doornemen
 
 De feedback die ik heb gekregen tijdens de expo, ik was er positief verrast door!
