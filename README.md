@@ -14,6 +14,9 @@ deze bronnen staan ook in mijn code, maar ik zet ze ook hier nog even neer!
 
 ### 26 okt - expo en alles doornemen
 
+De feedback die ik heb gekregen tijdens de expo, ik was er positief verrast door!
+![sticker sheet expo](/assets/images/readmeimg/exposheet.jpeg)
+
 Samen met Shakila, Poema en Amy hebben we elkaars sites en learning logs doorgenomen om te kijken wat er goed is en wat er mogelijk nog mist.
 
 Amy en ik hebben elkaar's site bekeken:
