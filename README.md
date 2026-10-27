@@ -16,9 +16,9 @@ deze bronnen staan ook in mijn code, maar ik zet ze ook hier nog even neer!
 
 Ik zal heel eerlijk zijn. Ik baal van hoe dit blok is gegaan, dit vooral omdat ik een paar weken ziek ben geweest. Ik had zo veel ideeën maar heb zo veel steken laten vallen omdat ik aan het worstelen was met de tijd en met mijzelf.
 
-Ik ben uiteindelijk wel blij met het eindproduct wat ik heb kunnen maken. mijn idee heb ik uit kunnen werken maar het mist zeker nog een paar details voordat ik kan zeggen dat ik er trots op ben. Als ik de kans had, had ik alleen maar de 2 weken die ik ziek was anders gedaan. Ik denk dat ik kan meer had kunnen laten zien.
+Ik ben uiteindelijk wel blij met het eindproduct wat ik heb kunnen maken. mijn idee heb ik uit kunnen werken maar het mist zeker nog een paar details voordat ik kan zeggen dat ik er trots op ben. Als ik de kans had, had ik alleen maar de weken die ik ziek was anders gedaan. Ik denk dat ik kan meer had kunnen laten zien.
 
-Ik heb ook gemerkt dat ik toch best wel visueel ingesteld ben wat notities en process maken betreft. Ik heb best wel moeite gehad met het opschrijven van dingen in mijn learning log. In de vorige blokken toen we met miro/figma werkte ging het mij allemaal iets soepeler af (maar nog steeds niet goed... ik ben echt bagger in het opschrijven van mijn gedachte, maar ik word er steeds beter in!!! )
+Ik heb ook gemerkt dat ik toch best wel visueel ingesteld ben wat notities en process maken betreft. Ik heb best wel moeite gehad met het opschrijven van dingen in mijn learning log. In de vorige blokken toen we met miro/figma werkte ging het mij allemaal iets soepeler af ( nog steeds niet goed... ik ben echt bagger in het opschrijven van mijn gedachte, maar ik word er steeds beter in!!! )
 
 Ik ben trots op mijzelf met hoe ik heb doorgezet toen het allemaal niet meezat, toen ik het zelf ook niet helemaal meer zag zitten en eigenlijk wou opgeven. Ik heb mijzelf een schop gegeven en ben toch hard aan de slag gegaan om iets neer te zetten.
 
